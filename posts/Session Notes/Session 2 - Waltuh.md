@@ -1,0 +1,20 @@
+---
+Session Date: 12/29/2024
+---
+- we enter the basement and hear mysterious chanting, but we can't determine the source
+- we find a room with a 30ft well, straw beds, and a couple locked chests
+- in another room is a Grick, which is uninterested in us
+- Arden falls into a pungee pit
+- Ellory makes a block of ice to push ahead of us and test for traps
+- the ice triggers a ghoul ambush and kill them with a lot of mind slivers + other things
+- Ellory tries to open a door mimic and almost dies
+- Arden senses a presence in a wall and smites it. It turns out to be [[Gustav Durst]] as a ghast. [[Elisabeth Durst]], also as a ghast, follows shortly thereafter. Both are swiftly dispatched, upsetting the ghosts of [[Rose & Thorn]].
+- we long rest and go deeper into the basement. The chanting gets louder and we hear them say "he is the ancient, he is the land" over and over
+- we enter the chanting chambers and 13 cloaked figures with void faces and black torches. They repeat "one must die" over and over before changing to "Vorgoth the Decayer, I awaken thee!". A shambling heap of refuse, presumably Vorgoth, awakens and attacks. During the fight the cultists chant "the end comes, death be praised!"
+- we kill it and the apparitions disappear.
+- we find four cell-like rooms labled with the [[Durst Family]]'s names, including a [[Walter Durst]] who [[Rose & Thorn]] confirm was to be the [[Walter Durst|stillborn baby]]'s name. We start to move all but [[Walter Durst|Walter]]'s bodies into their graves, but while moving [[Elisabeth Durst]]'s coffin a bunch of centipedes attack [[Arden]]. We kill them.
+- when [[Arden]] goes back to the main floor the main room is filled with smoke, and the sound of swinging blades fills the air. He breaks through a now-rotted wall and reveals a rat swarm, which we kill.
+- we recover [[Rose & Thorn]]'s bodies and place them in their tombs, laying them to rest. They're thankful, and we receive an inspiration.
+- we finish looting the basement, ending on taking an arcane orb from a statue and activating am ambush from 5 shadows. We flee for escape with the shadows in hot pursuit and barely make it away.
+- the main floor is full of smoke, and [[Arden]] temporarily goes down because of it before [[Viscero]] feeds him a healing potion. The party spawns several rat swarms breaking through walls to avoid scythe traps on doors.
+- as we all escape the house, choking on smoke, the house behind us looks as serene as it ever did. We level up to Level 3.
