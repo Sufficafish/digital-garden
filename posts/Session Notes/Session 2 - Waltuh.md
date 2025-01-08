@@ -10,7 +10,7 @@ Session Date: 12/29/2024
 - Ellory tries to open a door mimic and almost dies
 - Arden senses a presence in a wall and smites it. It turns out to be [[Gustav Durst]] as a ghast. [[Elisabeth Durst]], also as a ghast, follows shortly thereafter. Both are swiftly dispatched, upsetting the ghosts of [[Rose & Thorn]].
 - we long rest and go deeper into the basement. The chanting gets louder and we hear them say "he is the ancient, he is the land" over and over
-- we enter the chanting chambers and 13 cloaked figures with void faces and black torches. They repeat "one must die" over and over before changing to "Vorgoth the Decayer, I awaken thee!". A shambling heap of refuse, presumably Vorgoth, awakens and attacks. During the fight the cultists chant "the end comes, death be praised!"
+- we enter the chanting chambers and 13 cloaked figures with void faces and black torches. They repeat "one must die" over and over before changing to "Lorghoth the Decayer, I awaken thee!". A shambling heap of refuse, presumably Lorghoth, awakens and attacks. During the fight the cultists chant "the end comes, death be praised!"
 - we kill it and the apparitions disappear.
 - we find four cell-like rooms labled with the [[Durst Family]]'s names, including a [[Walter Durst]] who [[Rose & Thorn]] confirm was to be the [[Walter Durst|stillborn baby]]'s name. We start to move all but [[Walter Durst|Walter]]'s bodies into their graves, but while moving [[Elisabeth Durst]]'s coffin a bunch of centipedes attack [[Arden]]. We kill them.
 - when [[Arden]] goes back to the main floor the main room is filled with smoke, and the sound of swinging blades fills the air. He breaks through a now-rotted wall and reveals a rat swarm, which we kill.

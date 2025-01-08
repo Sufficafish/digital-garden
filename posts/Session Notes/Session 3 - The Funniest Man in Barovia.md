@@ -1,0 +1,39 @@
+---
+Session Date: 1/5/2025
+---
+- we continue down the road that initially lead us to [[The Death House]] in search of a place to rest and recover
+- after about an hour, and the start a light rainfall, we finally see some village buildings in the distance. All is silent except for the sound of sobbing
+- as we progress into the town many of the buildings we see are fairly disheveled, with claw marks on their exteriors
+- at the center of town, to the north, is the [[Blood on the Vine Tavern]], and to the south is [[Bildrath's Mercantile]]
+- we enter [[Bildrath's Mercantile]] and find [[Bildrath]] inside, a gloomy middle-aged man with sunken eyes and thin hair. [[Mercurie Slypher|Mercurie]] lies to him in an attempt to sell him an eyepatch before [[Arden]] intervenes. [[Bildrath]] lowballs us and claims he's the only vendor in town, and we walk away.
+- we enter the [[Blood on the Vine Tavern]] and see a bartender, group of three women, and a solitary man. [[Arden]] approaches the bartender, who is constantly cleaning glasses, and asks about lodgings which are 1 gold per room per night.
+- [[Arden]] approaches the solitary man, who greets him eagerly and offers for the rest of the party to join. He specifies the town to be [[Village of Barovia]] and that his name is [[Ismark Kolyanavich]]. [[Kolyan Indirovich]] is his father, and [[Ismark Kolyanavich]] is now the burgomaster by default.
+- [[Ismark Kolyanavich]] describes [[Strahd von Zarovich]] as a "controversial figure", and is scared he will soon turn [[Ireena Kolyana|his sister]].
+- EXTREMELY IMPORTANT: [[Ismark Kolyanavich]] "doesn't know much about garlic"
+- [[Ismark Kolyanavich|Ismark]] asks that we take [[Ireena Kolyana|Ireena]] to a safe city of [[Vistani]], which is a few hours away
+- [[Ismark Kolyanavich|Ismark]] tells us that no one can leave [[Barovia]] except the [[Vallaki]], and nods to the group of women. He says they are agents of [[Strahd von Zarovich|Strahd]] and that we should stay clear of them.
+- [[Village of Barovia]] is in the shadow of [[Strahd von Zarovich|Strahd]]'s castle, [[Castle Ravenloft]].
+- [[Barovia|The Valley of Barovia]] is relatively small, crossable is couple days travel.
+- [[Ismark Kolyanavich|Ismark]] knows nothing of the [[Durst Family]] other than that a windmill on the way to [[Vistani]] may be named after them
+- [[Ismark Kolyanavich|Ismark]] leads us to his home, a worn and withered mansion, and tells us the source of the crying sound is [[Mad Mary]]. The mansion is in extreme disrepair after several attacks from [[Strahd von Zarovich|Strahd]]'s minions, presumably to get to [[Ireena Kolyana|Ireena]]
+- [[Ismark Kolyanavich|Ismark]] tells us some [[Vampyre]] lore he doesn't necessarily believe, but has heard:
+	- they must sleep in their coffins during the day
+	- a [[Vampyre]] cannot enter a residence uninvited
+	- vampyres possess a hypnotic gaze
+	- it takes three bites to turn someone, and they must come with some time apart
+	- running water burns them like acid
+	- sunlight causes them to burst into flame
+- [[Ireena Kolyana|Ireena]] lets us into the mansion, which has holy symbols in every room. [[H of H]] recognizes them to be symbols of the [[Morning Lord]], but doesn't know much about them.
+- [[Kolyan Indirovich]] died three days ago, presumably of a heart attack
+- [[Ireena Kolyana|Ireena]] doesn't want to leave until [[Kolyan Indirovich|her father]]'s body is at rest, and asks we takes his body to the church and request a burial from [[Father Donavich]]
+- [[Ismark Kolyanavich|Ismark]] shows us a map of [[Barovia]], and tells us its likely that [[Arrigal]] was [[Vallaki]]
+- [[Ellory Vellum|Ellory]], [[H of H]], and [[Arden]] carry [[Kolyan Indirovich]]'s coffin to the church while the other two follow, which looks to have weathered the assaults of evil for centuries.
+- When the party enters we see [[Father Donavich]] praying, which is blotted out temporarily by a roaring scream coming up from below the floorboards. [[Arden]] detects an undead presence. When we enter, the voice yells up "Father, I'm starving!"
+- [[Father Donavich]] reveals the voice is his son, which is why he has been praying so fervently. He has been tainted by a [[Vampyre]], and has become "something other than human"
+- one year ago [[Father Donavich]]'s son and other villagers led a revolt against [[Strahd von Zarovich|Strahd]] at [[Castle Ravenloft]], led by a wizard. The son was presumed dead until he arrived at the church a few days ago
+- we go into the basement and kill his son, [[Doru Donavich]]
+- as we exit the church we hear the sounds of small wooden wheels on cobbled streets, an old woman with a cart. [[Arden]] senses a strong fiendish presence and we ignore it, heading back to the mansion. [[Ismark Kolyanavich|Ismark]] tells us she's an old woman that sells pastries, which are supposedly very good although he's never had one.
+- the party long rests in the mansion and the night is uneventful
+- before dawn the party, [[Ismark Kolyanavich|Ismark]], and [[Ireena Kolyana|Ireena]] head to the church for [[Kolyan Indirovich]]'s funeral, which must be held at dawn. [[Mercurie Slypher|Mercurie]] puts on a terrible fake crying performance.
+- as the funeral comes to an end, the sun rising, [[Strahd von Zarovich|Strahd]] appears behind the party and says the party was brought to [[Barovia]] because we "interest him", and that if we cease to be interesting we will soon die. He then walks away into the distance as the sun fully rises.
+- the party prepares to travel to [[Vistani]] at the start of the next session
