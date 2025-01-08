@@ -36,4 +36,4 @@ Session Date: 1/5/2025
 - the party long rests in the mansion and the night is uneventful
 - before dawn the party, [[Ismark Kolyanavich|Ismark]], and [[Ireena Kolyana|Ireena]] head to the church for [[Kolyan Indirovich]]'s funeral, which must be held at dawn. [[Mercurie Slypher|Mercurie]] puts on a terrible fake crying performance.
 - as the funeral comes to an end, the sun rising, [[Strahd von Zarovich|Strahd]] appears behind the party and says the party was brought to [[Barovia]] because we "interest him", and that if we cease to be interesting we will soon die. He then walks away into the distance as the sun fully rises.
-- the party prepares to travel to [[Vistani]] at the start of the next session
+- the party prepares to travel to [[Vallaki]] at the start of the next session
