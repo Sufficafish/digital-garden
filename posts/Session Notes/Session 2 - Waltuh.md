@@ -3,10 +3,10 @@ Session Date: 12/29/2024
 ---
 - we enter the basement and hear mysterious chanting, but we can't determine the source
 - we find a room with a 30ft well, straw beds, and a couple locked chests
-- in another room is a Grick, which is uninterested in us
+- in another room is a [[Grick]], which is uninterested in us
 - Arden falls into a pungee pit
 - Ellory makes a block of ice to push ahead of us and test for traps
-- the ice triggers a ghoul ambush and kill them with a lot of mind slivers + other things
+- the ice triggers a [[Ghoul]] ambush and kill them with a lot of mind slivers + other things
 - Ellory tries to open a door mimic and almost dies
 - Arden senses a presence in a wall and smites it. It turns out to be [[Gustav Durst]] as a ghast. [[Elisabeth Durst]], also as a ghast, follows shortly thereafter. Both are swiftly dispatched, upsetting the ghosts of [[Rose & Thorn]].
 - we long rest and go deeper into the basement. The chanting gets louder and we hear them say "he is the ancient, he is the land" over and over

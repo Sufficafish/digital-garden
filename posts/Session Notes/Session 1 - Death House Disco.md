@@ -5,10 +5,10 @@ tags:
 ---
 - Campaign starts with a group of travelers headed through some foggy woods as part of a caravan led by [[Arrigal]]
 - at night [[Mercurie Slypher]], [[Arden]], [[H of H]], [[Viscero]], and [[Ellory Vellum]] huddle around a campfire. [[Arrigal]] checks up on them but the night is otherwise uneventful.
-- the party wakes up the following morning in woods unlike those they fell asleep at, shrouded in heavy mist with the sound of wolves in the background. The rest of the caravan is nowhere to be found
+- the party wakes up the following morning in woods unlike those they fell asleep at, shrouded in heavy mist with the sound of [[Wolf|wolves]] in the background. The rest of the caravan is nowhere to be found
 - after some discussion the party ventures into the woods, finding a worn road
 - five hours of travel lead the party to the [[Gates of Barovia]], huge iron gates that open for them and close behind them.
-- soon after passing through the gates the party stumbles across a dead courier carrying [[Kolyan Indirovich's Letter]]. The threat of enclosing wolves push the party back to the road.
+- soon after passing through the gates the party stumbles across a dead courier carrying [[Kolyan Indirovich's Letter]]. The threat of enclosing [[Wolf|wolves]] push the party back to the road.
 - further down the road we find two children, [[Rose & Thorn]], in the middle of the road. [[Rose & Thorn|Thorn]] is crying and clutching a doll, and [[Rose & Thorn|Rose]] explains that their parents went into the basement of their house to kill a monster and asks that we rescue their crying baby brother from upstairs. [[Ellory Vellum|Ellory]] opts to stay behind with the children while the others explore the house. 
 - The mist from the forest surrounds all except [[The Death House|the house]], [[Rose & Thorn|Rose]] claims entering the mist means death.
 - [[Rose & Thorn]] provide little useful information, seemingly unaware of simple details like how to access the basement or what the monster is. [[Mercurie Slypher|Mercurie]] gets frustrated when a sentient suit of armor attacks the party, to which the children again claim ignorance.
