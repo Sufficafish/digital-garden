@@ -7,4 +7,4 @@ Species: Half-Elf
 tags:
   - PC
 ---
-Half-Elf follower of [[Ilmater]].
+Half-Elf follower of [[Ilmater]], in the [[Order of the Golden Cup]].

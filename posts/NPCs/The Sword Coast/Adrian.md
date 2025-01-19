@@ -1,0 +1,1 @@
+[[Ellory Vellum|Ellory]]'s childhood bully who convinced him to send away all his best work by posing as a high-ranking member of the [[Adrian's Remote Guild of Leathercrafting Excellence]].

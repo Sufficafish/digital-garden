@@ -1,0 +1,1 @@
+Scam leatherworkers organization [[Ellory Vellum|Ellory]] has been mailing away his best work and commissions to for almost two decades. "Run" by [[Adrian]], [[Ellory Vellum|Ellory]]'s childhood bully.
