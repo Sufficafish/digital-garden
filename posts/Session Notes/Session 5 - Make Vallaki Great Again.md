@@ -3,9 +3,9 @@ Session Date: 1/19/2025
 ---
 - we enter [[Vallaki]] and seek knowledge from the first locals we see on where to stay, who point us to the [[Blue Water Inn]]
 - two young men who look similar to each other are speaking to a strange-looking dwarf in a mask. The men are asking the figure for adventuring stories, which are happily supplied.
-- the bar is tended by [[Danika Dorakova]], who suggests [[Urwin Martikov|her husband]] may have interest in speaking with us
-- [[Ellory Vellum|Ellory]] asks [[Danika Dorakova|Danika]] where the nearest post office is. She says he may need to speak with the encampment of [[Vistani]] outside of the city to get mail outside the city, though they may rip us off.
-- [[H of H]] and [[Arden]] go to speak with the tale-telling dwarf, who introduces himself as [[Dain Lightbringer]]. The men he previously spoke to are [[Nikolai Wachter]] and [[Carter Wachter]], sons of [[Fiona Wachter]].
+- the bar is tended by [[Danika]], who suggests [[Urwin Martikov|her husband]] may have interest in speaking with us
+- [[Ellory Vellum|Ellory]] asks [[Danika|Danika]] where the nearest post office is. She says he may need to speak with the encampment of [[Vistani]] outside of the city to get mail outside the city, though they may rip us off.
+- [[H of H]] and [[Arden]] go to speak with the tale-telling dwarf, who introduces himself as [[Dain Lightbringer]]. The men he previously spoke to are [[Nikolai Wachter]] and [[Karl Wachter]], sons of [[Fiona Wachter]].
 - [[Dain Lightbringer|Dain]] says that [[Fiona Wachter|Fiona]] believes [[Vallaki]] would be better off under [[Strahd von Zarovich|Strahd]]'s control
 - The next morning we find a note on [[Viscero]]'s pillow explaining that his mentor insisted he take his journey alone, and that he has gone on his way.
 - [[Arden]] convinces [[Ellory Vellum|Ellory]] that the [[Adrian's Remote Guild of Leathercrafting Excellence]] is likely a scam. [[Ellory Vellum|Ellory]] breaks down in tears realizing he's spent the past 18 years of his life mailing away all his best work.
@@ -22,5 +22,5 @@ Session Date: 1/19/2025
 - [[Fiona Wachter|Fiona]] tells us of [[Baron Vargas Vallakovich|The Baron]]'s henchman, [[Izek]], a strong and powerful combatant. Should we remove [[Izek]] from the picture she believes she can depose [[Baron Vargas Vallakovich|The Baron]]. [[Arden]] senses a fiend from below the room we're speaking with her in, though nothing from her directly.
 - we head back to meet with [[Baron Vargas Vallakovich|The Baron]] again. [[Arden]] blows his clerical load all over him in an attempt to get him to "chill the fuck out", which kind of works but also maybe creates a secret police and conversion camps.
 - we go out of town to meet with the camp of [[Vistani]], who are not permitted inside the city. We meet with [[Kasimir Velikov]], one of a clan of dark elves under the watch of the [[Vistani]]. He calls [[Rahadin]] a "terrible man", a centuries-long servant of [[Strahd von Zarovich|Strahd]], and murderer several times over.
-- when we go to meet with the [[Vistani]] we see [[Arrigal]] and another, [[Luvash]], whipping a boy bloody, [[Alexi]]. [[Arabelle]], [[Luvash]]'s seven year-old daughter, was under [[Alexi]]'s watch and has since gone missing. We agree to help look for her in exchange for some potions that supposedly allow us to leave [[Barovia]].
+- when we go to meet with the [[Vistani]] we see [[Arrigal]] and another, [[Luvash]], whipping a boy bloody, [[Alexei]]. [[Arabelle]], [[Luvash]]'s seven year-old daughter, was under [[Alexei]]'s watch and has since gone missing. We agree to help look for her in exchange for some potions that supposedly allow us to leave [[Barovia]].
 - [[Mercurie Slypher|Mercurie]] talks to the horses and learns some fat slob put [[Arabelle]] in a sack and left. The session ends with us heading back to town to prepare for the search.
