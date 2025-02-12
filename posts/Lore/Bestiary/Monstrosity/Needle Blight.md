@@ -3,8 +3,8 @@ tags:
   - Monster
   - Monstrosity
 Move Speed: 30ft
-AC: <=15
-HP: <=12
+AC: "13"
+HP: 11-12
 ---
 Attacks:
 - Needleshot: 5
