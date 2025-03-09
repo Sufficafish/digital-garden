@@ -13,3 +13,8 @@ Supposedly true per [[Ismark Kolyanavich|Ismark]]:
 - running water burns them like acid
 - sunlight causes them to burst into flame
 - allergic to garlic
+
+Per the [[Tome of Strahd]]:
+- vulnerable only to the sun's light
+- a stake through the heart will keep a [[Vampyr]] in place for a time but not kill them
+- supposedly some "cursed sword" that [[Sergei]] once owned is also a significant threat
