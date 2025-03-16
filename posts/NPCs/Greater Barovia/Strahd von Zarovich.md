@@ -1,6 +1,9 @@
 ---
 aliases:
   - Strahd
+  - Lord Vasili von Holtz
+  - Vasili
+  - Lord Holtz
 tags:
   - NPC
   - Vampyre

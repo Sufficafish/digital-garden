@@ -7,7 +7,7 @@ aliases:
 ---
 Supposedly true per [[Ismark Kolyanavich|Ismark]]:
 - they must sleep in their coffins during the day
-- a vampyre cannot enter a residence uninvited
+- a vampyr cannot enter a residence uninvited
 - vampyres possess a hypnotic gaze
 - it takes three bites to turn someone, and they must come with some time apart
 - running water burns them like acid
@@ -17,4 +17,4 @@ Supposedly true per [[Ismark Kolyanavich|Ismark]]:
 Per the [[Tome of Strahd]]:
 - vulnerable only to the sun's light
 - a stake through the heart will keep a [[Vampyr]] in place for a time but not kill them
-- supposedly some "cursed sword" that [[Sergei]] once owned is also a significant threat
+- supposedly some "cursed sword" that [[Sergei von Holtz]] once owned is also a significant threat
