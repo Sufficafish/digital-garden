@@ -4,5 +4,6 @@ tags:
 Location: "[[Krezk]]"
 aliases:
   - Dmitri
+  - Burgomaster of Krezk
 ---
 The burgomaster of [[Krezk]].
