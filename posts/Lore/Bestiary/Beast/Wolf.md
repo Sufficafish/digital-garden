@@ -11,4 +11,4 @@ Move Speed: 40ft
 ![[wolf.jpg]]
 
 Attacks:
-- Bite Attack (Piercing, +4, DC >9 Strength Save against Prone): 6, 7
+- Bite Attack (Piercing, +4, DC 10 Strength Save against Prone): 6, 7
