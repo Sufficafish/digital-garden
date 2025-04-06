@@ -4,6 +4,8 @@ tags:
   - Undead
 aliases:
   - vampyres
+  - vampire
+  - vampires
 ---
 Supposedly true per [[Ismark Kolyanavich|Ismark]]:
 - they must sleep in their coffins during the day

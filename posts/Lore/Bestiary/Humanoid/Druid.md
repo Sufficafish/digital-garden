@@ -5,6 +5,8 @@ tags:
 Move Speed: 
 AC: "16"
 HP: "27"
+aliases:
+  - druids
 ---
 
 Attacks:
