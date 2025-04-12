@@ -1,0 +1,7 @@
+---
+Session Date: 4/12/2025
+---
+- We continue to explore [[Argynvostholt]]. A piece of parchment falls off a bookshelf from the "[[Journal of Argynvost]]", which suggest we much return [[Argynvost]]'s bones to [[Argynvostholt|Argynvostholt]]. In the same room a torn painting shows [[Argynvostholt|Argynvostholt]] in better days, with a glowing silver chapel. [[Ellory Vellum|Ellory]] mends the portrait and a spectral silver dragon fills the room, and says "My skull lies in the fortress of my enemy, displayed in a place of ill omen. Return my skull to its rightful crypt and my spirit will shine bright forever, returning hope to this dark land."
+- We ascend up to the roof. Perched on the roof is a silver-plated gargoyle in the shape of a dragon. As we walk up to it, it whispers "When the dragon dreams its dream within its rightful tomb the light of [[Argynvost]] will gleam and rid this land of gloom."
+- We explore the rest of [[Argynvostholt]] and have a few minor encounters along the way. Inside the mausoleum is an inscription in draconic: "Here lie the bones and treasures of [[Argynvost]], lord of [[Argynvostholt|Argynvostholt]], and founder of the [[Order of the Silver Dragon]]". The mausoleum is otherwise empty.
+- As we attempt to climb over the fence a figure that looks like a headless [[Izek Strazni|Izek]] appears from inside the house, and we end the session there.

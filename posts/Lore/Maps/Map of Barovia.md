@@ -1,1 +1,1 @@
-![[Barovia.jpg]]
+[![[Barovia.jpg]]](Barovia.md)
