@@ -12,6 +12,6 @@ Speak with Dead:
 - Where is the weapon capable of killing [[Strahd von Zarovich|Strahd]]?
 	- A weapon capable of killing [[Strahd von Zarovich|Strahd]]? I know of no such weapon, he is an immortal [[Vampyr]].
 - How did you die?
-	- This bastard [[Rictavio]] stabbed me right through the gut! All I did was try and steal his wagon.
+	- This bastard [[Rudolph van Richten]] stabbed me right through the gut! All I did was try and steal his wagon.
 - What did you hope to achieve with your life?
-	- I wanted to be rich, that's all I really wanted. Now I just hope that my people are safe from that menace [[Rictavio]].
+	- I wanted to be rich, that's all I really wanted. Now I just hope that my people are safe from that menace [[Rudolph van Richten]].

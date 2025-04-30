@@ -1,6 +1,8 @@
 ---
 tags:
   - Monster
+  - Humanoid
+  - Shapechanger
 AC: 12-19
 HP: 58-61
 Move Speed: 30ft

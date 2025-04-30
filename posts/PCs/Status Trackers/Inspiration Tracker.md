@@ -4,6 +4,6 @@ tags:
 ---
 [[Mercurie Slypher|Mercurie]]: Heroic Inspiration
 [[Dain Lightbringer|Dain]]: Heroic Inspiration
-[[H of H]]: 
+[[H of H]]: Inspiration
 [[Ellory Vellum|Ellory]]: 
 [[Arden]]: 
