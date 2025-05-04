@@ -4,9 +4,9 @@ Session Date: 1/5/2025
 - we continue down the road that initially lead us to [[The Death House]] in search of a place to rest and recover
 - after about an hour, and the start a light rainfall, we finally see some village buildings in the distance. All is silent except for the sound of sobbing
 - as we progress into the town many of the buildings we see are fairly disheveled, with claw marks on their exteriors
-- at the center of town, to the north, is the [[Blood on the Vine Tavern]], and to the south is [[Bildrath's Mercantile]]
+- at the center of town, to the north, is the [[Blood of the Vine Tavern]], and to the south is [[Bildrath's Mercantile]]
 - we enter [[Bildrath's Mercantile]] and find [[Bildrath]] inside, a gloomy middle-aged man with sunken eyes and thin hair. [[Mercurie Slypher|Mercurie]] lies to him in an attempt to sell him an eyepatch before [[Arden]] intervenes. [[Bildrath]] lowballs us and claims he's the only vendor in town, and we walk away.
-- we enter the [[Blood on the Vine Tavern]] and see a bartender, group of three women, and a solitary man. [[Arden]] approaches the bartender, who is constantly cleaning glasses, and asks about lodgings which are 1 gold per room per night.
+- we enter the [[Blood of the Vine Tavern]] and see a bartender, group of three women, and a solitary man. [[Arden]] approaches the bartender, who is constantly cleaning glasses, and asks about lodgings which are 1 gold per room per night.
 - [[Arden]] approaches the solitary man, who greets him eagerly and offers for the rest of the party to join. He specifies the town to be [[Village of Barovia]] and that his name is [[Ismark Kolyanavich]]. [[Kolyan Indirovich]] is his father, and [[Ismark Kolyanavich]] is now the burgomaster by default.
 - [[Ismark Kolyanavich]] describes [[Strahd von Zarovich]] as a "controversial figure", and is scared he will soon turn [[Ireena Kolyana|his sister]].
 - EXTREMELY IMPORTANT: [[Ismark Kolyanavich]] "doesn't know much about garlic"

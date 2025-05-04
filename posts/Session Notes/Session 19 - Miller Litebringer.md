@@ -1,0 +1,41 @@
+---
+Session Date: 5/4/2025
+---
+- we finish speaking with [[Rudolph van Richten|Van Richten]] and head to the [[Vistani]] camp to speak with [[Madam Eva]] and have our fortunes read. We are welcomes warmly and told she is already waiting for us.
+- We enter her tent and are greeted by [[Madam Eva]], and old crone who greets everyone by name and brief summary of their character.
+- [[Madam Eva]]'s fortune:
+	- 1st card, The Traitor, Nine of Glyphs:
+		- "This card tells of history, and knowledge of it will help best your enemy. We are to look for a wealthy woman, an ally of the devil who keeps treasure locked up with ancient bones"
+	- 2nd card, The Avenger, One of Swords:
+		- "A holy symbol of great hope. The treasure lies in a dragon's house, now corrupted."
+	- 3rd card, The Bishop, Eight of Glyphs:
+		- "This card tells of a sword of sunlight. What we seek lies in a pile of treasure beyond a set of amber doors."
+	- 4th card, The Tempter Card:
+		- "Sheds light on one who will help us greatly in the battle against darkness. A wedding bell, or perhaps a death knell, a woman in a mountaintop abbey who is more than the sum of her parts."
+	- 5th card, The Executioner Card:
+		- "I see a dark figure on a balcony looking down upon this tortured land with a twisted smile. They will lead us  to [[Strahd von Zarovich|Strahd]]."
+- We return to the [[Village of Barovia]]. [[Mad Mary]]'s wailing can still be heard outside as we make our way to the [[Blood of the Vine Tavern]].  We attempt to book rooms and are told an exorbitant fee of five gold per person, so we go to [[Ismark Kolyanavich|Ismark]]'s manor to look for him instead.
+- We knock on the door but there is no immediate answer. [[Arden]] announces himself and, after some time, [[Ismark Kolyanavich|Ismark]] answers. He appears thinner and more gaunt than when we last saw him, and [[Arden]] subtly gives him a single point of lay on hands.
+- [[Ismark Kolyanavich|Ismark]] asks how [[Ireena Kolyana|Ireena]] is doing, we vaguely say she is under divine protection, and he thanks us for our service. 
+- [[Ellory Vellum|Ellory]] asks about [[Mad Mary]] but [[Ismark Kolyanavich|Ismark]] isn't sure of the exact nature of her distress. [[Ellory Vellum|Ellory]] and [[Arden]] further reveal that the pastry women were secretly [[Night Hag|Night Hags]] and have been dispatched, and that the pastries will no longer be available. Upon hearing this he requests we leave, suggesting he was a regular customer and that his current withered appearance is a result of withdrawal.
+- We return to the [[Blood of the Vine Tavern]] and pay the ridiculous 25 gold fee, which turns out to just be for a single room. We rest for the night, but during the second shift [[Ellory Vellum|Ellory]] hears someone battering on the door, and it turns out to be [[Izek Strazni|Izek]] again battering down the door with an axe.
+	- [[Izek Strazni|Izek]] damage (AC 13-16, HP 140-170): 10 + 15 + 15 + 11 + 6 + 12 + 16 | 15 + 1 + 14 + 2 + 9 + 9 + 11 + 10 + 2 + 1 X
+	- unaffected by turn undead
+- As [[Arden]] smites [[Izek Strazni|Izek]] his body dissolves in holy light, dropping his great axe. [[Dain Lightbringer|Dain]] greedily retrieves it. [[Ellory Vellum|Ellory]] mends [[Izek Strazni|Izek]]'s fireball damage as best he can while [[Arden]] checks downstairs. [[Arden]] finds the innkeeper and three [[Vistani]] women brutally hacked to pieces. [[Mercurie Slypher|Mercurie]] recollects our gold.
+- In the morning [[Arden]] prepares the bodies for burial and the party helps carry the bodies to the [[Church of the Village of Barovia]]. [[Arden]] explains what has happened to [[Father Donavich]], who is expectedly saddened by the news. He also mentions the three [[Vistani]] women supposedly owned the [[Blood of the Vine Tavern]].
+- [[Arden]] asks [[Father Donavich]] about [[Mad Mary]] but he doesn't know much about her current distress. He also explains the situation with the [[Night Hag|Night Hags]] at [[Ellory Vellum|Ellory]]'s request.
+- We go to speak with [[Mad Mary]] while we wait for [[Ezmerelda d'Avenir|Ezmerelda]] to arrive. She is unreceptive to our offer of help, so we go to the west road to wait for [[Ezmerelda d'Avenir|Ezmerelda]].
+- While we wait we decide to finally speak with the skull we found in the chest in [[Lady Lovina Wachter]]'s house:
+	- Who are you?
+		- I am [[Leo Dilisnya]].
+	- How did you die?
+		- I was hunted down and killed for my betrayal of [[Strahd von Zarovich]] once he became a demon lord.
+	- How did you betray [[Strahd von Zarovich|Strahd]]?
+		- I was a part of a secret order who believed [[Strahd von Zarovich|Strahd]] was a dictator and he should be removed from this land. We organized an assassination attempt on the wedding night of his brother [[Sergei von Holtz|Sergei]]. However something went wrong and, while I thought I had killed him, he was not dead.
+	- What information do you know that is most harmful to [[Strahd von Zarovich|Strahd]]?
+		- I know of no way to harm him in his current state. However if you wish to harm his allies look no further than the [[The Wachters|Wachters]], for they are true scoundrels.
+	- What secrets do you know of [[Castle Ravenloft]]?
+		- I did not know many secrets, I just served as a guard there. However, when I was hunted down it seemed as if they could somehow transport people over long distances. It seems there is some magic in [[Castle Ravenloft]] that allows people to transport great distances over [[Barovia]] through some kind of teleportation magic.
+- Rather than continue waiting we head back along the west road to look for [[Ezmerelda d'Avenir|Ezmerelda]] and eventually find her alongside [[Rudolph van Richten|Van Richten]]'s wagon, though [[Rudolph van Richten|Van Richten]] is not there. We fill her in on our conversation with him, including that we'd convinced him to hold off his attacks on other [[Vistani]].
+- [[Ezmerelda d'Avenir|Ezmerelda]] mentions that the Bishop card represents strong devotion to some code or creed, and that we shouldn't necessarily interpret it to mean the sword is in a holy place.
+- We agree to infiltrate [[Castle Ravenloft]] right before dawn, allowing the possibility for us to escape into daylight if needed. We head back to the [[Durst Windmill]] to rest early and end the session there.
