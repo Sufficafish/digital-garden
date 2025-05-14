@@ -16,9 +16,9 @@ Session Date: 4/6/2025
 	- Where is the weapon capable of killing [[Strahd von Zarovich|Strahd]]?
 		- A weapon capable of killing [[Strahd von Zarovich|Strahd]]? I know of no such weapon, he is an immortal [[Vampyr]].
 	- How did you die?
-		- This bastard [[Rudolph van Richten]] stabbed me right through the gut! All I did was try and steal his wagon.
+		- This bastard [[Rudolph van Richten|Rictavio]] stabbed me right through the gut! All I did was try and steal his wagon.
 	- What did you hope to achieve with your life?
-		- I wanted to be rich, that's all I really wanted. Now I just hope that my people are safe from that menace [[Rudolph van Richten]].
+		- I wanted to be rich, that's all I really wanted. Now I just hope that my people are safe from that menace [[Rudolph van Richten|Rictavio]].
 - [[Ezmerelda d'Avenir|Ezmerelda]] then offers to read our fortunes, though she says [[Madam Eva]] would be more skilled. She crawls underneath the wagon to avoid her own security measures and reemerges with a deck of cards. She only knows how to do a one-card reading, and says the card will tell of a powerful symbol of good, protection, and hope. She reveals the "Avenger", and says "the treasure lies in a dragon's house, in hands once clean now corrupted"
 - We head back to the [[Wizard of Wines Winery]] to assess whether or not they'll be able to hold onto the magic crystal without it getting stolen by [[Druid|druids]] again. [[Elvir Martikov]] answers the door, followed shortly by [[Adrian Martikov]], who we notice has a small mark on his sleeve like the one [[Ellory Vellum|Ellory]] left on the clothes in the woods. We go upstairs to speak with them and their father [[Davian Martikov|Davian]].
 - [[Mercurie Slypher|Mercurie]] asks about their ability to defend the crystal and they say they'd be able to with "normal means", though [[H of H]] suspects they aren't revealing everything, causing the party to suspects they're [[Wolfman|wolfmen]]. [[Mercurie Slypher|Mercurie]] produces the gemstone and hands it over. When asked about the other missing gemstones [[Davian Martikov|Davian]] says that one is still held by [[Baba Lysaga]], and that we should speak to [[Urwin Martikov|Urwin]] about the other one as it's a sore topic.

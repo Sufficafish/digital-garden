@@ -1,0 +1,23 @@
+---
+Session Date: 5/13/2025
+---
+- We set out to arrive at [[Castle Ravenloft]] two hours before sunrise
+- Past the front portcullises we find an entrance into the castle proper in the back, near a closed carriage house. The first room is extremely dusty, containing a book and fresh inkwell. Each page of the book is headed: "Please register for your own convenience and that of your next of kin.", though the names below are old and illegible. It seems like someone has been in the room recently.
+- As we explore we see [[Cyrus Belview]] (though we don't know his name) wandering the halls with a lantern. We hide from him and continue exploring.
+- Through a set of doors is a room furnished entirely with bones, and mounted on the wall is a large dragon's skull. We take note and plan to retrieve it when we leave.
+- In the next room we are accosted by magic swords:
+	- Attacks:
+		- 6, 6 slashing
+	- AC: 15-17
+	- HP: 16-19
+	- Blue Sword: 10 | 9 X
+	- Green Sword: 24 X
+	- Orange Sword: 7 + 8 | 17 X
+	- Purple Sword: 10 | 4 + 13 X
+	- Pink Sword: 3 + 24 X
+- We defeat them easily. [[H of H]] ritual casts locate object to try and find amber doors but doesn't get any response. She then looks for the closest platinum coin in the hopes of finding the treasure hoard [[Madam Eva]] foretold and detects one below the floor we're currently on, as if in a sub-basement.
+- We follow the sensed coin down a hallway. [[Dain Lightbringer|Dain]] and [[H of H]] notice a trap that we aren't able to disarm but are able to jump over. [[Mercurie Slypher|Mercurie]] however has to stay behind due to her poor strength score.
+- The basement floor is covered in three feet of murky water. [[Ellory Vellum|Ellory]] uses shape water to clear it and reveal several trap doors that would have otherwise surely spelled the end of the campaign, thereby making him the most important member of the party.
+- After exploring further we come upon a room of cells. In the back cell is an emaciated figure, [[Emil Toranescu]], softly crying for help. [[Arden]] speaks to him through the bars and he says he was accosted by [[Dire Wolf|dire wolves]] and driven to [[Castle Ravenloft]] where he was captured, knocked unconscious, and incarcerated.
+- One of the cells is covered in electrum pieces. [[Ellory Vellum|Ellory]] spends 21 minutes scooping up all 2,100, worth 1,050 gold.
+- We head back to the bone room to regroup with [[Mercurie Slypher|Mercurie]] and plan what to do next, ending the session there.

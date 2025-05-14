@@ -25,7 +25,7 @@ Session Date: 5/4/2025
 - In the morning [[Arden]] prepares the bodies for burial and the party helps carry the bodies to the [[Church of the Village of Barovia]]. [[Arden]] explains what has happened to [[Father Donavich]], who is expectedly saddened by the news. He also mentions the three [[Vistani]] women supposedly owned the [[Blood of the Vine Tavern]].
 - [[Arden]] asks [[Father Donavich]] about [[Mad Mary]] but he doesn't know much about her current distress. He also explains the situation with the [[Night Hag|Night Hags]] at [[Ellory Vellum|Ellory]]'s request.
 - We go to speak with [[Mad Mary]] while we wait for [[Ezmerelda d'Avenir|Ezmerelda]] to arrive. She is unreceptive to our offer of help, so we go to the west road to wait for [[Ezmerelda d'Avenir|Ezmerelda]].
-- While we wait we decide to finally speak with the skull we found in the chest in [[Lady Lovina Wachter]]'s house:
+- While we wait we decide to finally speak with the skull we found in the chest in [[Fiona Wachter]]'s house:
 	- Who are you?
 		- I am [[Leo Dilisnya]].
 	- How did you die?
@@ -38,4 +38,4 @@ Session Date: 5/4/2025
 		- I did not know many secrets, I just served as a guard there. However, when I was hunted down it seemed as if they could somehow transport people over long distances. It seems there is some magic in [[Castle Ravenloft]] that allows people to transport great distances over [[Barovia]] through some kind of teleportation magic.
 - Rather than continue waiting we head back along the west road to look for [[Ezmerelda d'Avenir|Ezmerelda]] and eventually find her alongside [[Rudolph van Richten|Van Richten]]'s wagon, though [[Rudolph van Richten|Van Richten]] is not there. We fill her in on our conversation with him, including that we'd convinced him to hold off his attacks on other [[Vistani]].
 - [[Ezmerelda d'Avenir|Ezmerelda]] mentions that the Bishop card represents strong devotion to some code or creed, and that we shouldn't necessarily interpret it to mean the sword is in a holy place.
-- We agree to infiltrate [[Castle Ravenloft]] right before dawn, allowing the possibility for us to escape into daylight if needed. We head back to the [[Durst Windmill]] to rest early and end the session there.
+- We agree to infiltrate [[Castle Ravenloft]] right before dawn, allowing the possibility for us to escape into daylight if needed. We head back to the [[Durst Windmill]] to rest early, long rest, and end the session there.
