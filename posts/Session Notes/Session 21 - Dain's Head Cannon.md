@@ -1,0 +1,25 @@
+---
+Session Date: 5/18/2025
+---
+- the party debates whether to return now with the dragon skull or continue to explore. [[Ellory Vellum|Ellory]] heavily advocates for taking the skull back under the cover of darkness but is outvoted five to one.
+- [[Mercurie Slypher|Mercurie]] disguises herself to look like [[Strahd von Zarovich|Strahd]]. We continue to explore the main room and get jumped by skeletons:
+	- AC: <=15
+	- HP <= 9-18
+	- Attacks:
+		- 13 Piercing
+	- Destroyed by turn undead
+- The skeletons are easily defeated. We continue to explore and find a bubbling cauldron in a bloody torture room. [[H of H]] goes over to inspect and is surprised by an arm reaching for her. We enter combat with three zombies.
+	- AC: 8
+	- HP: 13-14
+- During combat [[Dain Lightbringer|Dain]] kicks the cauldron over. [[Cyrus Belview]] comes to investigate the noise and isn't concerned to see us there, just muttering about the fact he'll need to remake the meal he was cooking and that he "isn't the cook he used to be". After a pause, he then remembers something and says he's supposed to take us to our rooms.
+- We say we don't want to go and [[Cyrus Belview|Cyrus]] insists, saying the Master is expecting us. We continue to refuse and says he'll go speak to someone else about about this, so [[Arden]] puts him in a chokehold. [[Cyrus Belview|Cyrus]] screams for [[Rahadin]] to help before [[Arden]] chokes him out.
+- [[Ellory Vellum|Ellory]] puts [[Cyrus Belview|Cyrus]] by the tipped cauldron to make it look like he was attacked by the zombies and that's why he called for help. In the meantime [[Arden]] goes to retrieve the dragon skull.
+- [[Emil Toranescu]] sees [[Arden]] taking the skull and goes to block our retreat, saying that this is how he will redeem himself. [[Arden]] immediately casts hold person and succeeds.
+- Turns out [[Emil Toranescu|Emil]] has immunity to non-magical damage, but we still render him unconscious. Just as we finish [[Rahadin]] shows up, and his presence once again fills our heads with screams:
+	- AC: >=17
+- We kill him using some very intelligent planning and begin smuggling [[Emil Toranescu|Emil]] and the dragon skull outside the castle. After six hours of slow travel we rest at the [[Durst Windmill]], hoping to get in a long rest before [[Strahd von Zarovich|Strahd]]'s forces catch up with us. Seven hours into the rest we are accosted by [[Zombie|zombies]], [[Dire Wolf|dire wolves]], and [[Vampyr Spawn]]:
+	- Purple vamp: 30 +? 7 + 16 | 
+	- Green vamp: 15
+	- Blue vamp: 10 + 13 + 11 + 11 | 15 + 6 + 15 X
+	- Orange vamp (staff): 15
+	- Pink vamp (staff): 30

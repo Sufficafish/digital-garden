@@ -2,6 +2,8 @@
 tags:
   - NPC
 Location: "[[Castle Ravenloft]]"
+aliases:
+  - Emil
 ---
 ![[Emil Toranescu.png]]
 

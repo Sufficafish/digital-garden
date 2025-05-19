@@ -3,7 +3,7 @@ tags:
   - Monster
   - Undead
 AC: 15-16
-HP: 44-88
+HP: 68-81
 ---
 Can climb on building exteriors
 
