@@ -1,0 +1,20 @@
+---
+Session Date: 6/1/2025
+---
+- Combat continues:
+	- Purple vamp: 30 +? 7 + 16 | 15 + 10 X
+	- Green vamp: 15 +? 8 + 8 + 19 | 11 + 11
+	- Blue vamp: 10 + 13 + 11 + 11 | 15 + 6 + 15 X
+	- Orange vamp (staff): 15 +? 5 + 3 + 8 + 8 | 9 + 11 +? 13 + 
+	- Pink vamp (staff): 30 + 6
+- We narrowly manage to win the combat while the [[Durst Windmill]] burns down around us. We're able to finish our long rest due to bonkers resting rules and set off to [[Vallaki]].
+- On our way there we come across six wolves. We hide from them and two of them change into humanoids and talk about how they still have not found "the humans".
+- We wait near [[Vallaki]] for [[Ezmerelda d'Avenir|Ezmerelda]] to fetch her wagon to speed up the last leg of the journey. We set off and are on track to arrive at [[Argynvostholt]] around sunrise.
+- We break through the fence near [[Argynvostholt]]'s mausoleum and return the dragon skull. It begins to glow brilliantly with light and shoots a beacon of light straight into the sky, emanating an aura of hope and joy. All who oppose [[Strahd von Zarovich|Strahd]] get +1 to their AC and all saving throws, which is extremely cool.
+- We go to speak to [[Vladimir]] and notice all the prior soldiers have seemed to die a peaceful death. [[Vladimir]] is also dead and we search his body, finding:
+	- [[Vladimir]]'s +2 great sword
+	- [[Vladimir]]'s half plate armor
+	- two holy symbols:
+		- mundane platinum symbol of the [[Morning Lord]] (250g)
+		- The Holy Symbol of Ravenkind
+- We level up and make plans to start next session by talking to [[Emil Toranescu|Emil]] and potentially investigating [[Baba Lysaga]].
