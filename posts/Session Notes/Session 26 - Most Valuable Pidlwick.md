@@ -1,0 +1,137 @@
+---
+Session Date: 6/29/2025
+---
+- we ascend a very tall spiral staircase up from the chapel proper, past all floors we'd previously investigated. In the rafters is a small, child-like figure illuminated by the occasional flash of lightning. [[Arden]] perceives with his darkvision that it doesn't really seem alive, yet it climbs down and approaches. It's a misshapen construct in the mockery of a human form, made of gears and dyed leather and donning a jester's cap.
+- [[Mercurie Slypher|Mercurie]] begins to juggle the three severed heads [[Dain Lightbringer|Dain]] carries. The construct extends his hand as if to ask for them, and [[Mercurie Slypher|Mercurie]] instead hands it three daggers. The construct makes an extremely poor attempt at juggling.
+- The group begins asking it yes or no questions, which the construct responds to by nodding/shaking its head:
+	- Are you here to entertain [[Strahd von Zarovich|Strahd]]?
+		- No
+	- Were you here before [[Strahd von Zarovich|Strahd]]?
+		- No
+	- Do you like [[Strahd von Zarovich|Strahd]]?
+		- No
+	- Were you here to entertain at the wedding?
+		- Halfhearted nod
+	- Do you know how to spell?
+		- No
+	- Were you hiding up here because you're worried about being found?
+		- Yes
+	- Were you hiding from [[Strahd von Zarovich|Strahd]]?
+		- Yes
+	- Do you know where the amber temple is?
+		- No
+	- Do you know who made you?
+		- Yes
+	- Was it [[Gadof Blinsky|Blinsky]]?
+		- No
+	- Was it [[Strahd von Zarovich|Strahd]]?
+		- No
+	- Did you dress yourself? (???)
+		- No
+	- Did the person who made you dress you? (?????)
+		- Yes
+	- Point at where you're from on this map.
+		- Points at [[Castle Ravenloft]]
+	- You're from here?
+		- Yes
+- [[H of H]] remembers she can read thoughts and asks for consent to use it on the construct, which is granted. [[H of H]] determines the construct is extremely excited, and when prompted for its name thinks "[[Pidlwick]]".
+	- Who made you?
+		- [[Von Weerg]]
+	- Why are you afraid of [[Strahd von Zarovich|Strahd]]?
+		- Scary
+	- How old are you?
+		- I don't know
+	- Is [[Von Weerg]] still with us?
+		- No, he is dead
+	- Was that sad for you?
+		- Shrug
+	- Can you tell us more about the wedding?
+		-  Not much to say, very sad
+	- Was the wedding to [[Sergei von Holtz|Sergei]]?
+		- Yes
+	- Do you know where [[Sergei von Holtz|Sergei]]'s sword is?
+		- No, maybe in the crypts?
+	- Do you know where [[Strahd von Zarovich|Strahd]]'s well of power is?
+		- Light nod, the heart?
+	- Where is the castle heart?
+		- Other tower
+	- Do you want to come?
+		- Enthusiastic yes
+	- Is there anything else that we should know?
+		- Shrug, about what?
+	- About [[Strahd von Zarovich|Strahd]] or how to defeat him
+		- Shrug
+- We head down to the crypts, [[Pidlwick]] following behind us. [[Ellory Vellum|Ellory]] launches firebolts up at what appears to be oozes in the ceiling but turns out to be bats, which all fly up the central column of the spiral staircase we came down. We begin following the leftmost wall through the maze of the crypts, [[Dain Lightbringer|Dain]] poking the ground ahead of us with a spear.
+- We encounter a slab labeled "King Troisky, the Three-Faced King". [[Dain Lightbringer|Dain]] attempts to move the slab but it unable. [[Arden]] tries next and succeeds easily. Inside is a marble slab but no bones, only a steel helm with one visor shaped like an angry face, one like a happy face, and one like a sad face. [[Ellory Vellum|Ellory]] and [[Arden]] go in to investigate more closely and when they pick up the helmet gas begins to spew from holes underneath, filling the crypt. [[H of H]] casts identify and learns the helmet is mundane.
+- The next crypt reads "Endorovich (Endorovich the Terrible): What the blood of a hundred wars did not do, the spurn of a woman accomplished." and is already open. [[Mercurie Slypher|Mercurie]] attempts to grab the skull inside with mage hand but activates a [[Gargoyle|gargoyle]] the moment it touches it. Combat ensues. 
+	- [[Gargoyle]] #1: 4 + 5 + 4 + 19 + 13 | 8 + 5 + 4 + 10 + 13 X
+		- AC: 15
+		- HP: 77-85
+	- [[Gargoyle]] #2:  2 + 11 + 25 + 5 | 4 + 15 + 25 X
+- We discover more crypts with the following inscriptions:
+	- (repeated for completion's sake) "King Troisky, the Three-Faced King"
+	- (repeated for completion's sake) "Endorovich (Endorovich the Terrible): What the blood of a hundred wars did not do, the spurn of a woman accomplished."
+	- "Herein lie the ones who walk the path of pain and torment"
+	- "Artista DeSlop—Court Ceiling Painter"
+	- "Duchess Dorfniya Dilisnya"
+		- Same last name as [[Leo Dilisnya]], who's head we have.
+	- "Lady Isolde Yunk (Isolde the Incredible): Purveyor of antiques and imports"
+	- "Pidlwick—Fool of Dorfniya"
+	- "Prince Ariel du Plumette (Ariel the Heavy)"
+	- "Sir Leonid Krushkin (Sir Lee the Crusher): Bigger than life, he loved his jewelry"
+	- "Tasha Petrovna—Healer of Kings, Light unto the West, Servant, Companion"
+	- "Artank Swilovich: Friend and member of the Barovian Wine Distillers Guild"
+	- "Saint Markovia: Dead for all time"
+		- Crypt was protected with a poison dart trap
+		- Who [[The Abbot]] came to [[Barovia]] in service of
+	- "Sir Sedrik Spinwitovich (Admiral Spinwitovich): Confused though he was, he built the greatest naval force ever assembled in a landlocked country"
+	- "Elsa Fallona von Twitterberg (Beloved Actor): She had many followers"
+	- "Khazan: His word was power"
+		- Same name as was on the wizard tower
+	- "Stahbal Indi-Bhak: A truer friend no ruler ever had. Here lies his family in honor"
+	- "King Katsky (Katsky the Bright): Ruler, inventor, and self-proclaimed time traveler"
+	- "Ireena Kolyana: Wife"
+		- Recently-constructed, the stone faceplate is not on the door and the room is empty
+	- "Artimus (Builder of the Keep): Thou standest amidst the monument to his life"
+	- "Sasha Ivliskova—Wife"
+	- "[[Dain Lightbringer]]"
+		- [[Dain Lightbringer|Dain]] crudely carves "[[Strahd von Zarovich|Strahd]]-killer" after his name
+	- "Sir Erik Vonderbucks"
+	- "Patrina Velikovna—Bride"
+		- Same last name as a dusk elf we spoke to outside [[Vallaki]]
+	- "Ivan Ivliskovich, Champion of Winter Dog Racing: The race may go to the swift, but vengeance is for the loser's relatives"
+	- "Stefan Gregorovich: First Counselor to King Barov von Zarovich"
+	- "Intree Sik-Valoo: He spurned wealth for the knowledge he could take to heaven"
+	- "Bascal Ofenheiss—Chef Deluxe"
+	- "Baron Eisglaze Drüf"
+	- "King Dostron the Hellborn"
+	- "Sir Klutz Tripalotsky: He fell on his own sword"
+	- A blank door with no name or epitaph
+	- "We knew him only by his wealth"
+	- "Prefect Ciril Romulich (Beloved of King Barov and Queen Ravenovia): High Priest of the Most Holy Order"
+		- Perhaps the namesakes of "Barovia" and "Ravenloft"
+	- "Sir Jarnwald the Trickster: The joke was on him"
+	- A crypt with its name and epitaph scratched out by claw marks
+	- "Gralmore Nimblenobs—Wizard Ordinaire"
+	- "General Kroval "Mad Dog" Grislek (Master of the Hunt): A leader of hounds and men"
+	- "Beucephalus, the Wonder Horse: May the flowers grow ever brighter where he trod"
+		- The door is larger than the others, perhaps to accommodate a large horse
+	- "Tatsaul Eris—Last of the Line"
+- Through a heavy portcullis white marble steps descend into a large room sporting a white marble slab and coffin labeled [[Sergei von Holtz|Sergei von Zarovich]]. In the back of the room is a statue of a stunning young man, [[Sergei von Holtz|Sergei]], flanked by statues of two brilliant angels. A search of the room reveals no traps or other important details. [[Arden]] performs the rites proper for exhuming a body and helps [[Dain Lightbringer|Dain]] open the coffin, revealing [[Sergei von Holtz|Sergei]]'s extremely well-preserved body clad in gleaming, exceptionally-crafted plate armor. [[Arden]] divine senses and detects nothing from the body, suggesting he isn't a [[Vampyr|vampyr]], but does sense an undead presence in another crypt.
+- [[H of H]] casts speak with dead on [[Sergei von Holtz|Sergei]]:
+	- Where is the amber temple?
+		- "I have never heard of such a place."
+	- What secrets do you know of [[Castle Ravenloft]]?
+		- "How can I trust you with information about my home?"
+	- Your bother slew you and turned into a great beast. We seek his destruction, what do you know that aids our cause?
+		- "For most of when I knew him he was a man. A coward at times, I believe, but a man. Unfortunately all I can share is that as he killed me he drank my blood, that is all I know."
+	- We know your brother fears your sword, where is it?
+		- "It was a good sword. It served me well in life, but last I saw it it was with me."
+	- Who is [[Strahd von Zarovich|Lord Vasili von Holtz]]?
+		- "Ah, yes there were times where I remember my brother using that name to go about his business without making his identity obvious."
+- [[H of H]] identifies [[Sergei von Holtz|Sergei]]'s armor as +2 plate armor. After much, much deliberation [[Arden]] opts not to take it.
+- We explore the main crypt room to completion. As we approach a portcullis to the south [[Dain Lightbringer|Dain]] and [[Arden]] disappear in the a flash of light and are replaced by two zombie-like undead creatures. Combat ensues:
+	- [[Wight]] #1: 15 + 8 | 25 X
+		- AC: <=14
+		- HP: 46-48
+	- [[Wight]] #2: 3 + 2 + 8 + 12 | 14 + 12 X
