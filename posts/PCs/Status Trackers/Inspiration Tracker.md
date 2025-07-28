@@ -6,4 +6,4 @@ tags:
 [[Dain Lightbringer|Dain]]: Heroic Inspiration
 [[H of H]]: Heroic Inspiration
 [[Ellory Vellum|Ellory]]: Heroic Inspiration
-[[Arden]]: Heroic Inspiration
+[[Arden]]: 

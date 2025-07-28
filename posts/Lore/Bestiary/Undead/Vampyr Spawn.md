@@ -2,8 +2,10 @@
 tags:
   - Monster
   - Undead
-AC: 15-16
+AC: "15"
 HP: 68-81
+aliases:
+  - vampyr spawn
 ---
 Can climb on building exteriors
 
