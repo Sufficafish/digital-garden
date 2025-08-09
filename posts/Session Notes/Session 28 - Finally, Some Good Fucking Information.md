@@ -1,0 +1,25 @@
+---
+Session Date: 8/8/2025
+---
+- [[Clovin Belview]] wakes up and takes the sudden teleportation of ten people into his room surprising well. He offers to fetch [[The Abbot]] and heads off to do so.
+- we all speak to [[The Abbot]] about how to best temper [[Strahd von Zarovich|Strahd]]'s ire and he says we should retrieve the wedding dress. We ask to stay the night and are permitted.
+- In the morning we cast Sending with [[Mercurie Slypher|Mercurie]]:
+	- "At the Abbey, heading for Argonvostholt then Vallaki. Describe your condition and location."
+	- "Righteous. Shit’s cold! Be sleepin wit my dog y'all. I'm up a fokkin stone towaaaaa. Cannot see dick. LANDMARKS? None. Argenvastholt meet cute."
+- The next morning all but [[Viscero]] head for [[Argynvostholt]]. Halfway there we run into [[Arrigal]] and a few other [[Vistani|vistana]]. [[Arrigal]] remains but the others return to [[Castle Ravenloft|Ravenloft]] to inform [[Strahd von Zarovich|Strahd]] of our location.
+- At [[Argynvostholt]] we cast speak with dead on the skull of [[Argynvost]]:
+	- Where is the [[Amber Temple]]?
+		- To reach the temple, which is deep within the [[Balinok Mountains]] to the south built into [[Mt. Ghakis]], you should travel through [[Tsolenka Pass]]. The road there, while not straightforward, will lead you to the temple doors.
+	- How do we gain access to the [[Amber Temple]]?
+		- There is nothing special that you need to do to enter the temple. It is meant to keep things in, not keep things out.
+	- What might we do to help best protect ourselves in the [[Amber Temple]]?
+		- You must be prepared to resist temptation. If you cannot do that, do not go.
+	- What threats await us in the [[Amber Temple]]?
+		- First, do not underestimate the extreme conditions of the mountains and the cold, prepare yourselves for that. Beyond that, I do not know the exact nature of what creatures may have taken up residence in the temple in the time since my passing. However, there are evil things contained within that will do everything in their power to draw those in that would be tempted. Any manner of creature, especially those that are corruptible, may very well have found residence within the temple.
+	- What other information can you give us to aid in the defeat of [[Strahd von Zarovich]]?
+		- Beyond the light of hope that I have given to you I know of nothing else to aid in his defeat. [[Strahd von Zarovich|Strahd]] defeated me as a man, and I certainly stand no chance against the beast he has become. 
+- We decide to head to [[Vallaki]] to prepare ourselves for the journey to the [[Amber Temple]]. When we arrive we notice the gates are unmanned, and [[Arden]] offers blindfolds to [[Brom Martikov|Brom]] and [[Gertruda]]. Only [[Brom Martikov|Brom]] accepts.
+- Immediately thought the gates we find corpses of guards, which unsettles [[Gertruda]]. The city otherwise seems desolate. We head towards town square and, as we pass [[St. Andral's Church]], we notice there are lights on inside with sounds of a rustling crowd inside. We approach and enter, the church is packed with [[Father Lucian Petrovich|Father Petrovich]] standing at the altar. Everyone goes quiet as we enter, and after a moment of silence everyone begins yelling at us in a clamor. The new head guard, [[Hans]], shushes the crowd and tells us to leave immediately, and that he is sorry. [[Strahd von Zarovich|Strahd]] informed him directly that we are to be banished from [[Vallaki]] lest more attacks come.
+- [[Arden]] takes the blindfold off [[Brom Martikov|Brom]] and surrenders him to [[Hans]]'s care. [[Bluto Krogarov|Bluto]] also rejoins the town.
+- [[Arden]] leaves 3,500 gold with them, and we're escorted outside the city. [[Arden]] gives [[Hans]] 1,000 gold, who promises to return shortly with whatever supplies he can muster to aid our journey to [[Mt. Ghakis]]. He returns with six sets of cold-weather clothing, 12 rations, two climbers kits, and 100 feet of hempen rope. We thank him and head out to camp in the woods overnight by the dusk elf camp.
+- The night passes successfully and we end the session there, ready to head out to [[Mt. Ghakis]] in the next one.

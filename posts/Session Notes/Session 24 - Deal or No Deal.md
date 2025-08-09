@@ -1,20 +1,20 @@
 ---
 Session Date: 6/17/2025
 ---
-- we head to [[Krezk]] to speak with [[The Abbot]] about the Amber Temple. When we arrive [[Dain Lightbringer|Dain]] asks the guards about their local smith and is directed to him. He gives the smith 25 gold, who promises to have the half-plate fitted for him in three days. The smith's name is [[Borin]].
+- we head to [[Krezk]] to speak with [[The Abbot]] about the [[Amber Temple]]. When we arrive [[Dain Lightbringer|Dain]] asks the guards about their local smith and is directed to him. He gives the smith 25 gold, who promises to have the half-plate fitted for him in three days. The smith's name is [[Borin]].
 - We are greeted at [[Abbey of St. Markovia|The Abbey]] by [[Otto Belview|Otto]] and [[Zygfrek Belview|Zygfrek]]. [[Otto Belview|Otto]] asks if we'd brought the wedding dress [[The Abbot]] asked for, which we'd completely forgotten about. We head back in to town to ask the family that had recently birthed the soulless child for their wedding dress. The woman only has a commoner's dress but suggests we may be able to find a noblewoman's wedding dress in [[Vallaki]]. During the conversation the baby remains eerily silent, wide awake with open eyes.
-- We go to speak with [[The Abbot]], who says he won't let us take the bride without a wedding dress. [[Arden]] then asks about the Amber Temple, and he says it is a place "very hidden in this valley that contains great, dark magic." He is unsure of where it is, but suggests the oldest in the land would likely know, including [[Strahd von Zarovich|Strahd]].
-- We head to [[Argynvostholt]] to speak with the bones of [[Vladimir]] about the Amber Temple:
-	- Where is the Amber Temple?
-		- It was our sacred duty to protect the secret of the Amber Temple, one in which we failed. I will not give away its location so easily.
-	- Who is it that breached the Amber Temple?
+- We go to speak with [[The Abbot]], who says he won't let us take the bride without a wedding dress. [[Arden]] then asks about the [[Amber Temple]], and he says it is a place "very hidden in this valley that contains great, dark magic." He is unsure of where it is, but suggests the oldest in the land would likely know, including [[Strahd von Zarovich|Strahd]].
+- We head to [[Argynvostholt]] to speak with the bones of [[Vladimir]] about the [[Amber Temple]]:
+	- Where is the [[Amber Temple]]?
+		- It was our sacred duty to protect the secret of the [[Amber Temple]], one in which we failed. I will not give away its location so easily.
+	- Who is it that breached the [[Amber Temple]]?
 		- [[Strahd von Zarovich]] wiped out our order in order to prevent us from barring his access. It was our main duty to protect this place.
-	- What is it that [[Strahd von Zarovich|Strahd]] wanted from the Amber Temple?
+	- What is it that [[Strahd von Zarovich|Strahd]] wanted from the [[Amber Temple]]?
 		- There are dark forces that are imprisoned there. We believe he wanted their power and, with their help, succeeded in becoming a [[Vampyr|vampire]].
-	- How can we best protect the Amber Temple?
+	- How can we best protect the [[Amber Temple]]?
 		- If you truly can defeat [[Strahd von Zarovich|Strahd]] then that place would go down with it, along with his memory. He is the only one I know who knows of it, and his defeat would go a long way to sealing away whatever is inside it for a long time.
 	- We seek to destroy [[Strahd von Zarovich|Strahd]]. We have restored [[Argynvostholt]] and now seek the sword to destroy [[Strahd von Zarovich|Strahd]]. How do we gain access to the temple?
-		- After seeing what you have done and the beacon you have lit I do truly believe you have the power to destroy [[Strahd von Zarovich|Strahd]]. The Amber Temple corrupts all and I fear sending you there would tarnish the one hope we have. I am sorry.
+		- After seeing what you have done and the beacon you have lit I do truly believe you have the power to destroy [[Strahd von Zarovich|Strahd]]. The [[Amber Temple]] corrupts all and I fear sending you there would tarnish the one hope we have. I am sorry.
 - We rush to [[Vallaki]] to commission a wedding dress, and ask [[Ezmerelda d'Avenir|Ezmerelda]] to look out for [[Tatyana]]'s wedding dress in [[Castle Ravenloft]]. The tailor says it would take a few weeks for the dress to be made, but that he had recently made one for the ex-baroness and that we may be able to get it from her.
 - We finally make our way to [[Castle Ravenloft]] and arrive at the crossroads near sundown. There is once again a black carriage there, and it's door open at our approach. We cautiously get in, and [[Ezmerelda d'Avenir|Ezmerelda]] breaks off to sneak into the castle on her own. We arrive at the castle after an hour.
 - When we enter we are met by an elegant man in fine attire and bids we continue into the castle towards the sounds of organ music. He introduces himself as [[Escher]], who has stepped into [[Rahadin]]'s role since his untimely passing. As we continue we pass a suit of oiled, glistening plate armor, which [[Arden]] notes for later.

@@ -8,9 +8,9 @@ Session Date: 6/8/2025
 - When we approach the hut we make ourselves known to [[Baba Lysaga]], who bids us enter. During an extremely obfuscated dialogue in which she refuses to say anything straightforward and, in exchange for [[Dain Lightbringer|Dain]]'s hand (which we hope to dodge by [[Dain Lightbringer|Dain]] marrying her), she tells us:
 	- the baby she has is Strahd
 	- she is Strahd's mother
-	- the amber doors are in the Amber Temple
-	- she will tell us where the Amber Temple is if we bring her a freshly-killed Martikov
-- We end negotiations, hoping to find a loophole later, and leave for [[Krezk]] in order to ask the [[The Abbot]] about the Amber Temple. Along the way [[Arrigal]] races towards us on horseback, bringing a letter from [[Strahd von Zarovich|Strahd]]. It reads:
+	- the amber doors are in the [[Amber Temple]]
+	- she will tell us where the [[Amber Temple]] is if we bring her a freshly-killed Martikov
+- We end negotiations, hoping to find a loophole later, and leave for [[Krezk]] in order to ask the [[The Abbot]] about the [[Amber Temple]]. Along the way [[Arrigal]] races towards us on horseback, bringing a letter from [[Strahd von Zarovich|Strahd]]. It reads:
 	- My friends, 
 	  
 	  This charade is getting out of hand. Perhaps it would be best to settle things in a civilized manner over dinner. You are cordially invited to come to Castle Ravenloft this evening to dine. Your passage here will be a safe one. I await your arrival, as do our other guests. You'd best not disappoint them. 

@@ -18,7 +18,7 @@ Session Date: 6/29/2025
 		- Yes
 	- Were you hiding from [[Strahd von Zarovich|Strahd]]?
 		- Yes
-	- Do you know where the amber temple is?
+	- Do you know where the [[amber temple]] is?
 		- No
 	- Do you know who made you?
 		- Yes
@@ -119,7 +119,7 @@ Session Date: 6/29/2025
 	- "Tatsaul Eris—Last of the Line"
 - Through a heavy portcullis white marble steps descend into a large room sporting a white marble slab and coffin labeled [[Sergei von Holtz|Sergei von Zarovich]]. In the back of the room is a statue of a stunning young man, [[Sergei von Holtz|Sergei]], flanked by statues of two brilliant angels. A search of the room reveals no traps or other important details. [[Arden]] performs the rites proper for exhuming a body and helps [[Dain Lightbringer|Dain]] open the coffin, revealing [[Sergei von Holtz|Sergei]]'s extremely well-preserved body clad in gleaming, exceptionally-crafted plate armor. [[Arden]] divine senses and detects nothing from the body, suggesting he isn't a [[Vampyr|vampyr]], but does sense an undead presence in another crypt.
 - [[H of H]] casts speak with dead on [[Sergei von Holtz|Sergei]]:
-	- Where is the amber temple?
+	- Where is the [[amber temple]]?
 		- "I have never heard of such a place."
 	- What secrets do you know of [[Castle Ravenloft]]?
 		- "How can I trust you with information about my home?"
