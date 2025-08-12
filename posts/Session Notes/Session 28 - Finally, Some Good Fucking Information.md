@@ -6,7 +6,7 @@ Session Date: 8/8/2025
 - In the morning we cast Sending with [[Mercurie Slypher|Mercurie]]:
 	- "At the Abbey, heading for Argonvostholt then Vallaki. Describe your condition and location."
 	- "Righteous. Shit’s cold! Be sleepin wit my dog y'all. I'm up a fokkin stone towaaaaa. Cannot see dick. LANDMARKS? None. Argenvastholt meet cute."
-- The next morning all but [[Viscero]] head for [[Argynvostholt]]. Halfway there we run into [[Arrigal]] and a few other [[Vistani|vistana]]. [[Arrigal]] remains but the others return to [[Castle Ravenloft|Ravenloft]] to inform [[Strahd von Zarovich|Strahd]] of our location.
+- The next morning all but [[Viscero]] head for [[Argynvostholt]]. Halfway there we run into [[Arrigal]] and a few other [[Vistani|vistana]]. [[Arrigal]] remains but the others return to [[Castle Ravenloft|Ravenloft]] to inform [[Strahd von Zarovich|Strahd]] of our location. [[Arden]] then cuts [[Arrigal]] off right before he's about to tell us something useful and uses "vistana" as a slur, so he leaves. [[Ezmerelda d'Avenir|Ezmerelda]] was also not a fan of this.
 - At [[Argynvostholt]] we cast speak with dead on the skull of [[Argynvost]]:
 	- Where is the [[Amber Temple]]?
 		- To reach the temple, which is deep within the [[Balinok Mountains]] to the south built into [[Mt. Ghakis]], you should travel through [[Tsolenka Pass]]. The road there, while not straightforward, will lead you to the temple doors.

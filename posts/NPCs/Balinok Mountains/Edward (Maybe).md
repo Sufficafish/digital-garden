@@ -1,0 +1,3 @@
+---
+Location: "[[Balinok Mountains]]"
+---

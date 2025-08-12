@@ -11,3 +11,4 @@ Additions:
 
 Subtractions:
 - Spending two turns of combat to crit fail a persuasion check against a swarm of rats that were already almost dead and were in no way a threat to us
+- The [[Cyrus Belview|Cyrus]] point is removed due to Zach's pedantry on what constitutes a "tactic"

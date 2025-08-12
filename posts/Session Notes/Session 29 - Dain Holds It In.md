@@ -1,0 +1,38 @@
+---
+Session Date: 8/11/2025
+---
+- We go to [[Argynvostholt]] to wait for [[Mercurie Slypher|Mercurie]]. At noon we use Sending:
+	- "At Argynvostholt. What's your eta? Any other relevant information?"
+	- "holy fuck give me like 30 minutes"
+- After 30 minutes [[Mercurie Slypher|Mercurie]] arrives and faceplants into the ground. She went through the portal and ended up on the side of a mountain. There was a guard post with a single guard who she named [[Edward (Maybe)|Edward]], and she nearly froze to death. She then jumped off a mountain with featherfall and wound up in the woods, talked to crows to survive, made it to [[Vallaki]], found out were heading to [[Mt. Ghakis]], and then went to [[Argynvostholt]].
+- We long rest again to let [[Mercurie Slypher|Mercurie]] recover and head out the next morning.
+- Halfway through [[Tsolenka Pass]] [[Ellory Vellum|Ellory]] and [[H of H]] notice a 9-foot tall goat blending in with the mountains. It has malice in its eyes and lowers its head as if to charge. [[Dain Lightbringer|Dain]] wrestles it and, with some magical help from [[Ellory Vellum|Ellory]], throws it off a 100ft cliff to its death.
+- We eventually approach a fort with a stone portcullis that has green fire burning across it. Approaching the portcullis causes it to rise, but the flame remains. [[Arden]] lassos some rope around a spike at the top of the wall and uses a set of climbing gear to ascend to the top. When he touches down on the other side he awakens two stone statues of demonic vultures with horned heads, which break free from their stone shells. Combat ensures:
+	- Statue #1: 6 + 18 + 24 + 27 | 3 + 6 + 10 + 12 X
+	- Statue #2: 6 + 3 + 10 + 5 + 12 + 36 | 26 + 4 + 3 X
+		- AC:  15-18
+		- HP Range: 102 - 105
+		- Resistances: Fire, Nonmagical Damage
+		- Damage:
+			- talon attack: 7
+			- beak attack: 8
+			- Screech: DC 14 Con save against stun
+- we continue on to a stone bridge, where [[Edward (Maybe)|"Edward"]] stands. [[Mercurie Slypher|Mercurie]] walks up to him with [[Arden]] close behind, who registers nothing on a divine sense. [[Mercurie Slypher|Mercurie]] begins telling his life story, which is certainly real. [[H of H]] reads his thoughts and finds his head empty. We carry on.
+- In the distance we hear a loud screech, as if from a bird. [[Arden]] identifies it as a roc, or roc-like creature. We carry on and eventually make it to a crossroads splitting off into the woods or mountains. We follow the mountain path towards [[Mt. Ghakis]].
+- We finally arrive at the gates of the [[Amber Temple]]. [[Ellory Vellum|Ellory]] explores a crevasse and finds a thin rocky crag with sounds of human voices coming from the other side, though they're unintelligible. He also looks at a number of faceless hooded statues with their hands pressed in prayer and learns nothing other than that they make him uncomfortable.
+- We enter the temple and are immediately seen by a stranger, who dashes for a set of doors. [[Mercurie Slypher|Mercurie]] commands him to freeze, which succeeds. [[Dain Lightbringer|Dain]] restrains and gags him, but soon after more figures come out of a nearby room, revealing a [[Dire Wolf|dire wolf]] in the process. The leader of the group steps forward and asks for their captive to be released, and [[Arden]] negotiates a peaceful release. We are then invited into their quarters to discuss matters further.
+- Their leader asks why we're here and we say we seek the "sword of sunlight". She has never heard of such a weapon. [[Mercurie Slypher|Mercurie]] goes on a rant about how all we want is the sword and the leader begins monologuing before stabbing her twice in the stomach. Combat ensues:
+	- Goon (Blue): 21 + 27 | 24 + ? X
+		- AC: <=16
+		- HP Range: 55 - 72
+		- Greataxe attack (slashing): 7, 9
+		- can Reckless Attack
+	- Goon (Green): 24
+	- Goon (Orange): 11 + 9
+	- Goon (Purple): 11 + 9 + 7 + 12 + 25 + 26 X
+	- Goon (Pink): 11 + 5 + 5 + 1 + 16 | 4 + 9 + 4 + 19 X
+	- Leader: 8 + 11 + 17 + 24 | 17 + 31 + 23 X
+		- Spear Attack (piercing): 14, 10
+		- HP Range: 73 - 120
+	- Dire Wolf: X
+- After a somewhat successful use of the Fear Blender™ we survive the combat with one goon escaping through the crevasse and another fleeing deeper into the temple. We took a fireball from a flaming skull at one point when a good fled through a door. We end the session there.

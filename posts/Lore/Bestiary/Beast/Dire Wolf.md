@@ -4,6 +4,7 @@ tags:
   - Beast
 aliases:
   - dire wolves
+  - dire wolf
 HP: ~41
 AC: 12-14
 Move Speed: 60ft
@@ -12,3 +13,4 @@ Move Speed: 60ft
 
 Attacks:
 - Bite Attack (DC 13 Strength Save against Prone): 12, 11, 8, 14
+- +5 to attack
