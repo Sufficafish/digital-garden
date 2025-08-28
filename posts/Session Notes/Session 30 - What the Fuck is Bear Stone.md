@@ -3,7 +3,7 @@ Session Date: 8/17/2025
 ---
 - after much debate on what to do next we continue to explore the [[Amber Temple]]. We find the skeleton of a wizard holding a Wand of Secrets, which [[H of H]] identifies. [[Mercurie Slypher|Mercurie]] takes it.
 - [[Ellory Vellum|Ellory]] takes a closer look at a pit in the floor and notices its more of a tunnel that leads to a basement room. We lower [[Arden]] down on a rope and he immediately notices three flame skulls. [[Dain Lightbringer|Dain]] yanks him back up all by himself right before three fireballs would have certainly killed him.
-- we long rest to recover and then continue to explore. [[Mercurie Slypher|Mercurie]] gets rocked by a fireball coming from the face of the large statue in the center of the room. She retreats back to us.
+- we short rest to recover and then continue to explore. [[Mercurie Slypher|Mercurie]] gets rocked by a fireball coming from the face of the large statue in the center of the room. She retreats back to us.
 - [[Ellory Vellum|Ellory]] microwaves the pit skulls with sickening radiance and we lower [[Arden]] back down. There's a locked door and three amber sarcophagi with no clear way to open them. After much, much debate we opt not to use stone shape to bypass the door and continue exploring.
 - across a cracked hallway [[Dain Lightbringer|Dain]] and [[Arden]] trigger a fight against an amber statue. We win relatively easily.
 - We continue to explore, crumble a balcony, and eventually reuse the microwave in the skull pit to get back into it safely. [[H of H]] shapes a hole in the stone wall and we're immediately met by three witches, who after some discussion [[Dain Lightbringer|Dain]] swiftly kills. 
