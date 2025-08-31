@@ -2,17 +2,17 @@
 Session Date: 8/24/2025
 ---
 - [[Mercurie Slypher|Mercurie]] summons her dog, which she can use like a drone, to explore more of the temple before we long rest.
-- The dog does still trigger fireball strikes from the statue but is immune to fire. In a destroyed room some aparitions begin to appear:
+- The dog does still trigger fireball strikes from the statue but is immune to fire. In a destroyed room some apparitions begin to appear:
     - Apparitions:
         - AC: <=13
         - Attacks: Slam (force) >= +3
         - Resistances: Fire, maybe Physical
 - In another room the dog finds three amber sarcophagi similar to the ones we've seen, with one shattered. There are four one-eyed monsters that remain motionless but begin peering into [[Mercurie Slypher|Mercurie]]'s mind. She resists and the dog leaves.
 - After some further exploring the dog returns to the apparition room and is killed. We attempt to long rest in [[Emil Toranescu|Emil]]'s room and are successful.
-- [[H of H]] unsucessfully casts dispel magic on the darkness cloud around the statue before remembering she can cast silence for free. This works and we can cross the room safely.
-- [[Dain Lightbringer|Dain]] tanks some poltergeist damage and finds a scroll of Wall of Fire. In another room we find one of the people that fled our first combat in the temple resting off his wounds. [[Dain Lightbringer|Dain]] squeezes his name out of him, "Hyelk". He knows little of the temple and temporarily joins us as a member of the party.
+- [[H of H]] unsuccessfully casts dispel magic on the darkness cloud around the statue before remembering she can cast silence for free. This works and we can cross the room safely.
+- [[Dain Lightbringer|Dain]] tanks some poltergeist damage and finds a scroll of Wall of Fire. In another room we find one of the people that fled our first combat in the temple resting off his wounds. [[Dain Lightbringer|Dain]] squeezes his name out of him, "[[Hyelk]]". He knows little of the temple and temporarily joins us as a member of the party.
 - At the base of the main statue is a secret door going upward. We ascend and use the amulet to cast sunlight into the orb of darkness at the top. At the top is an old wizard who [[Dain Lightbringer|Dain]] swiftly restrains and gags. [[H of H]] detects his thoughts and we ask the following:
-    - What is your allegience to [[Strahd von Zarovich|Strahd]]
+    - What is your allegiance to [[Strahd von Zarovich|Strahd]]
         - Neutral/opposed
     - Where is the sword of sunlight?
         - Vault?
@@ -25,10 +25,10 @@ Session Date: 8/24/2025
     - Why are you here?
         - Guard Temple
     - What is your name?
-        - Neferon...Heinrich
+        - [[Heinrich Stolt|Neferon]]...[[Heinrich Stolt|Heinrich]]
     - Who do you work for?
         - The wizards
-- we ungag him and continue to talk. He's not interested in helping us kill [[Strahd von Zarovich|Strahd]]. He says his full name is Heinrich Stolt and tries to turn invisible. [[Ellory Vellum|Ellory]] counterspells and then he just disappears anyway.
+- we ungag him and continue to talk. He's not interested in helping us kill [[Strahd von Zarovich|Strahd]]. He says his full name is [[Heinrich Stolt]] and tries to turn invisible. [[Ellory Vellum|Ellory]] counterspells and then he just disappears anyway.
 - [[Arden]] goes up to the vault doors and speaks the command word, which unlock. Inside is a room filled with treasure, a large statue of a hawk-headed humanoid, and a cracked passageway in the back. [[Arden]] reminds everyone to resist temptation and not touch the treasure.
 - Through the crack in the back of the room is, miraculously, [[Pidlwick]], who raises a finger to his lips as if to shush us. We look confused and he points to the boxes. He sneaks past them and [[H of H]] reads his mind, who says there are [[Vampyr|vampyres]] hiding in the boxes.
 - We head back to the vault and fight the statue:
@@ -51,7 +51,7 @@ Session Date: 8/24/2025
     - piles of gemstones
     - suits of rusted plate armor
     - rusted shields
-    - child-sized sarcophagus made of black wood
+    - child-sized sarcophagus made of black wood (mundane)
     - hundreds of iron ingots
     - piles of miscellaneous holy symbols
     - 12 copper chalices with silver linings
@@ -72,4 +72,4 @@ Session Date: 8/24/2025
     - the sword hilt
     - the gilded skull
 - [[Arden]] picks up the sword hilt and feels a wave of curiosity and interest. He thinks to himself "Are we ready to destroy the darkness?" and feels a wave of elation. He asks if he must find a blade and instead a blade of sunlight emits from the handle. He asks if the sword has a name, and gets a blank response.
-- we end the session there, planning to short rest at the beginning of next session.
+- we end the session there and level up, planning to short rest at the beginning of next session.

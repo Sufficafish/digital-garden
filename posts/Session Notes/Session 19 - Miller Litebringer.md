@@ -13,7 +13,7 @@ Session Date: 5/4/2025
 	- 4th card, The Tempter Card:
 		- "Sheds light on one who will help us greatly in the battle against darkness. A wedding bell, or perhaps a death knell, a woman in a mountaintop abbey who is more than the sum of her parts."
 	- 5th card, The Executioner Card:
-		- "I see a dark figure on a balcony looking down upon this tortured land with a twisted smile. They will lead us  to [[Strahd von Zarovich|Strahd]]."
+		- "I see a dark figure on a balcony looking down upon this tortured land with a twisted smile. This card will lead you to [[Strahd von Zarovich|Strahd]]."
 - We return to the [[Village of Barovia]]. [[Mad Mary]]'s wailing can still be heard outside as we make our way to the [[Blood of the Vine Tavern]].  We attempt to book rooms and are told an exorbitant fee of five gold per person, so we go to [[Ismark Kolyanavich|Ismark]]'s manor to look for him instead.
 - We knock on the door but there is no immediate answer. [[Arden]] announces himself and, after some time, [[Ismark Kolyanavich|Ismark]] answers. He appears thinner and more gaunt than when we last saw him, and [[Arden]] subtly gives him a single point of lay on hands.
 - [[Ismark Kolyanavich|Ismark]] asks how [[Ireena Kolyana|Ireena]] is doing, we vaguely say she is under divine protection, and he thanks us for our service. 

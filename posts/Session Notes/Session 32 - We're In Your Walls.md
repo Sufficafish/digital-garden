@@ -1,0 +1,33 @@
+---
+Session Date: 8/31/2025
+---
+- [[H of H]] casts detect magic on the child-sized black coffin and determines it's mundane.
+- [[Arden]] wants to test out the sword and we go to jump the [[Vampyr|vampyres]] in the boxes. They swiftly die.
+- We find an evil library and burn it. Meanwhile [[Mercurie Slypher|Mercurie]] gets a splitting headache but says she's fine.
+- [[Pidlwick]] warns of a hooded figure that has entered the temple. We find them making contact with one of the amber sarcophagi and [[Arden]] casts Hold Person on them. It works, and [[Arden]] removed the hood to reveal [[Kasimir Velikov|Kasimir]], though his ears have been mutilated and removed. In speaking with him he says they've always been like this and is not new. He asks if we've touched any of the sarcophagi and we say we have not, and that they offer great power if we are able to resist temptation. [[Ellory Vellum|Ellory]] asks him how he survived the cold and he reveals a magic ring, saying it protects him. [[Dain Lightbringer|Dain]] shows him [[Rahadin]]'s head, and [[Kasimir Velikov|Kasimir]] is surprised but pleased.
+- [[Kasimir Velikov|Kasimir]] begins to tell a story of his sister. She fell for [[Strahd von Zarovich|Strahd]] and abandoned her people to become his concubine, intending to become his wife. The entire clan disapproved and eventually stoned her to death, lead by [[Kasimir Velikov|Kasimir]] himself. [[Strahd von Zarovich|Strahd]] was greatly displeased, murdered all the dusk elf women, and cut off [[Kasimir Velikov|Kasimir]]'s ears. In the many years since then his sister began speaking to [[Kasimir Velikov|Kasimir]] in his dreams, telling him that the [[Amber Temple]] was how [[Strahd von Zarovich|Strahd]] became a [[Vampyr|vampyr]] and that it contained power that could bring her back. The amber sarcophagi contain dark gods, and touching the sarcophagi is all you need to communicate with them.
+- [[Dain Lightbringer|Dain]] begins to speak with the sarcophagi:
+	- One offers persuasive power
+	- One offers anonymity of the mind
+	- One, Kazamides, the "Grave Worm", offers "additional bones" that could let you fly
+	- One, Szrin'halla, offers the "fury of the storm" and insults [[Dain Lightbringer|Dain]]'s ancestors
+	- One, the "Queen of Poxes", offers the ability to spread disease
+	- One, Sikkanee, offers the ability to raise the dead as servants
+	- One, Z'dune, claims they can resurrect the dead as they were in life, and claims to have knowledge of [[Dain Lightbringer|Dain]]'s sister. [[Dain Lightbringer|Dain]] lies to [[Kasimir Velikov|Kasimir]] about what it can do, unconvincingly.
+	- One threatens that [[Mercurie Slypher|Mercurie]] will die if [[Dain Lightbringer|Dain]] does not free them. He ceases speaking to them.
+	- One, Vampyre, claims to be the namesake of the creatures of that name and has a special deal with [[Strahd von Zarovich|Strahd]]
+- [[Mercurie Slypher|Mercurie]]'s condition worsens and we aim to leave the [[Amber Temple]], however [[Kasimir Velikov|Kasimir]] hangs back to continue to seek the power to resurrect his sister. He also mentions that [[Strahd von Zarovich|Strahd]] is amassing his armies and that [[Krezk]] has supposedly fallen. [[Arden]] asks for one week to defeat [[Strahd von Zarovich|Strahd]] before resorting to the power of dark gods but [[Kasimir Velikov|Kasimir]] is unconvinced. We continue on and [[Arden]] speaks to more sarcophagi, interrupted at one point by an invisible aberration:
+	- One, Kyrad, the "Star of Secrets", offers to reveal hidden information
+	- One gives the gift of the cold
+	- One, Norganis, the "Finger of Oblivion", can turn life to undeath
+	- One ceases to speak at all, then says it can help avoid things
+	- One offers fire
+	- One offers heartiness and resistance
+	- One, a collective of voices, offers strength
+	- One, Y'vga, offers true sight
+- [[H of H]] uses stone shape to burrow through a wall into another sarcophagus room. It's full of ghasts which are slowly dispatched. [[Dain Lightbringer|Dain]] speaks to them:
+	- One, Drizlash, can scale surfaces easily
+	- One, Dowver'nar of the Many Teeth, can live through grievous wounds and come back to life again and again
+	- One, Zantress the Kingmaker, can make you truly loved
+- We short rest back in [[Emil Toranescu|Emil]]'s room and then tell [[Kasimir Velikov|Kasimir]] we found the god who can resurrect people. We tell him he can make any deal short of freeing the god and he keeps his word, seemingly offering up much of his own self as he shrivels into a corpse-like state. He says he has the power to resurrect his sister now but must be with her body, which is in the crypts of [[Castle Ravenloft]].
+- Soon after we finish speaking the sounds of something crashing against the vault door rings out. We end the session there.

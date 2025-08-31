@@ -6,4 +6,4 @@ aliases:
   - Kasimir
 ---
 ![[Kasimir.png]]
-Dark elf under the protection of the [[Vistani]].
+Dusk elf under the protection of the [[Vistani]].
