@@ -1,0 +1,112 @@
+---
+Session Date: 9/7/2025
+---
+- The banging on the door persists. [[H of H]] listens closely and determines its a single entity hitting the door with a weapon. [[Arden]] asks the sword what it thinks of the name "Sunburn", it replies neutrally. [[Arden]] then speaks the command word for the door and kicks it open to reveal whatever is attacking it.
+- The person on the other side is unknown to us but has [[Izek Strazni|Izek]]'s monstrous arm. We attack:
+	- AC: 13-14
+	- HP Range: 124 - 130
+	- HP: 16 + 11 + 12 + 16 + 18 | 26 + 25 + 6 X
+- [[Dain Lightbringer|Dain]] severs [[Izek Strazni|Izek]]'s arm from the attacker, who lunges at [[Dain Lightbringer|Dain]] after in an attempt to grapple him. He says "I will keep coming back again and again until I kill you fucks. You can't stop me from setting him free and then he'll kill you for me." [[Dain Lightbringer|Dain]] knocks him unconscious and [[H of H]] casts identify on the severed arm, sensing evocation magic.
+- [[Mercurie Slypher|Mercurie]] reveals she made a deal with some entity to get her out of a tough situation in exchange for running a few errands for them at a later date, which is something her family has a history of. After waiting for a while for her deal to come due she eventually aimed to flee the country and wound up in [[Barovia]]. However the entity could still reach her and now wants her to destroy one of the sarcophagi, the one [[Dain Lightbringer|Dain]] spoke with before that demanded to be freed. [[Mercurie Slypher|Mercurie]] postulates its her "bosses boss", and that the pain she's experiencing is because she has yet to free them.
+- We run the detect thoughts gambit like we did on [[Heinrich Stolt|Heinrich]]:
+	- who are you?
+		- [[Izek Strazni|Izek]], don't you realize that you idiots
+	- who are you trying to free
+		- think of an amber sarcophagi, the one that demanded it be freed and is [[Mercurie Slypher|Mercurie]]'s "bosses boss"
+	- how did you find us?
+		- I always know where you are
+	- how?
+		- don't know
+	- how did you get the arm?
+		- made a deal
+	- with who?
+		- thinks of a demon
+	- what happened to your sister?
+		- disappeared, though he's thinking of [[Ireena Kolyana|Ireena]]
+- we continue to speak with him:
+	- when did you last see us?
+		- I've seen you many times without you knowing
+	- what happened after our altercations in [[Vallaki]]
+		- I died
+	- where did you wake up?
+		- why would I tell you
+- After a bit more dialogue [[Izek Strazni|Izek]] says he will always come back, and that we can't keep him from this place forever. [[Arden]] knocks him back out and binds him, carrying him going forward.
+- [[H of H]] gives the room another once-over looking for secret doors. In the library she finds two, one that leads to the wall behind the big central statue and another that reveals an empty room full of dust and cobwebs. In that room is another secret door that contains the trappings of royalty full of lit candelabras, in the center of which is a decrepit skeleton in tattered red robes with red pinpoints of light in the center. It turns to us and asks, "Do I know you?". [[Arden]] begins to speak with him.
+	- "We've met with some of the other members of the wizards. We're familiar with [[Heinrich Stolt|Neferon]]."
+		- "Ah yes, [[Heinrich Stolt|Neferon]], he sent you?"
+	- "Not exactly, we encountered him and discussed briefly."
+		- "I see, so why are you here?"
+	- "We're looking for information, we weren't exactly intending to find you. Is there anything you can tell us?"
+		- "My memory is somewhat lacking...are you healers? You have the robes of one."
+	- "My companion and I are classically trained."
+		- "Do you have anything that could restore an old man's mind?"
+	- "It would depend on the ailment, these kind of things can be complex."
+		- "Well I thought maybe you had some magics that could help."
+	- "Unfortunately the magics are often fickle and specific."
+		- "That wasn't my understanding, so I must continue researching."
+	- "If you tell us more we may be able to help."
+		- "Well given its a memory problem I don't have much."
+	- "You don't have any notes?"
+		- "No"
+	- "What is your name?"
+		- "Unfortunately I have forgotten that along with most other things."
+	- "Lets start with what you do know then, what's the furthest thing back you can remember?"
+		- "My personal history is unclear but in other matters I may be more helpful."
+	- "What do you know of [[Strahd von Zarovich|Strahd]]?"
+		- "I know many things, in one sense he is the ruler of this land but in every other sense he is a prisoner."
+	- "What does it mean that he "is the land"?"
+		- "I remember meeting [[Strahd von Zarovich|Strahd]] long ago when he first came to this temple, seeking great power. In forging his pact he not only doomed himself but also this entire land to be thrust into another dimension by dark powers, which feed off of his evil. It is their desire that he stay and rule forever in misery and corruption. They will not let him go easily."
+	- "If we were to be killed what would become of these dark powers?"
+		- "It is only my speculation but defeating and killing him might not be as easy as you suppose. As he sustains them they sustain him. If you were to kill him he very well may come back, months or years from now, unless another host were to be offered in his stead. What I'm trying to say is these powers will perhaps be weakened by his defeat, but they will eventually seek to either reinstate or replace him."
+	- "Can those dark powers be vanquished?"
+		- "They are gods, powerful beyond belief, far stronger than those kept in this temple."
+	- "Do you know their origin?"
+		- "No, though I theorize they exist on a plane of being beyond our comprehension. Eldritch."
+	- "Do you know of the one called [[Ireena Kolyana|Ireena]]?"
+		- "I don't think so, though I'm not good with names."
+	- "[[Tatyana]]? [[Strahd von Zarovich|Strahd]]'s one love?"
+		- "Perhaps he mentioned it when we last spoke, though I don't recall."
+	- "So the dark powers require a vessel from which to feed, does that vessel need to be evil?"
+		- "[[Strahd von Zarovich|Strahd]]'s tyranny seems to be what sustains them. While there is no ruler of this land the dark powers may temporarily lack the ability to keep [[Barovia]] isolated as it is now, though when they find themselves powerful again they will likely reinstate it's isolation."
+	- "How can we free this land permanently?"
+		- "You would need to defeat the dark powers."
+	- "Do you know of [[The Abbot]]?"
+		- "I think I've heard of him, he sounds familiar."
+	- "Do you know of any way of contacting these dark powers?"
+		- "Not even [[Strahd von Zarovich|Strahd]] knows how to contact him. They torment him, it's his curse."
+	- "What do you know of [[Argynvost]], the dragon who opposed [[Strahd von Zarovich|Strahd]]?"
+		- "I think I've heard of him, I knew there was an order founded by a dragon that sought to protect the secrets of this temple. I myself do not find those secrets worth keeping, hence why I'm happy to speak with you."
+	- "If you allow me to perform a ritual I may be able to see if you are under any arcane affliction."
+		- "I suppose I can allow it."
+- [[H of H]] casts identify on him and learns there is a strong necromancy affecting him that seems separate from the memory loss, and that he doesn't seem cursed. It seems a Greater Restoration will be necessary to cure his conditions. The conversation continues:
+	- "I understand [[Strahd von Zarovich|Strahd]] made a deal with powers in the temple, what is it that you did to aid him?"
+		- "I told him of the powers of this temple, I don't quite remember. I mostly just spoke with him as we are now."
+	- "As far as you understand the concept of goodness that a holy person might have do you think there are any in this temple that would not conflict with that?"
+		- "The gods kept here are largely considered to be evil, though I wouldn't judge."
+	- "Which is the least evil?"
+		- "I can't say, they're all locked up for a reason"
+	- "What is the origin of this temple?"
+		- "It was once a place of magical study before it became a prison."
+	- "What was kept in the amber block that is now destroyed?"
+		- "I don't recall, maybe if I had my memory."
+	- "If knowledge is to be freely given why is [[Heinrich Stolt|Neferon]] keeping people out?"
+		- "He doesn't operate under my orders, he's a pest in the temple as far as I'm concerned."
+	- "Does [[Emil Toranescu]] ring a bell?"
+		- "No."
+	- "Does [[Strahd von Zarovich|Strahd]] ever visit you?"
+		- "No not typically."
+	- "What is the name of your order?"
+		- "It doesn't have a specific name, the Order of the Amber Temple I suppose."
+	- "Are there more of you besides [[Heinrich Stolt|Neferon]]?"
+		- "Not as far as I remember, though I didn't remember him before you mentioned him"
+	- "Do you know of any expedited way to get to [[Krezk]]?"
+		- "No, I never leave the temple."
+	- "How did you come to be in your current condition?"
+		- "I don't remember."
+		- it seems like he's lying
+	- "It could help us cure you"
+		- "No I don't think it's related."
+	- "You have no written history?"
+		- "All I wrote was kept in the library upstairs, though I've forgotten the passphrases to actually see the writing."
+- After much, much deliberation we decide to leave the temple heading for the crypts at [[Castle Ravenloft]]. As we do [[Mercurie Slypher|Mercurie]]'s pain worsens significantly, eventually causing her to pass out when we exit the temple.
+- After an hour's travel we begin to hear the call of the roc-like bird. We keep vigilant and soon it makes its appearance, initiating combat. We end the session there.
