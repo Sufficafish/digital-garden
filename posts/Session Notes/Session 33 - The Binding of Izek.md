@@ -6,7 +6,7 @@ Session Date: 9/7/2025
 	- AC: 13-14
 	- HP Range: 124 - 130
 	- HP: 16 + 11 + 12 + 16 + 18 | 26 + 25 + 6 X
-- [[Dain Lightbringer|Dain]] severs [[Izek Strazni|Izek]]'s arm from the attacker, who lunges at [[Dain Lightbringer|Dain]] after in an attempt to grapple him. He says "I will keep coming back again and again until I kill you fucks. You can't stop me from setting him free and then he'll kill you for me." [[Dain Lightbringer|Dain]] knocks him unconscious and [[H of H]] casts identify on the severed arm, sensing evocation magic.
+- [[Dain Lightbringer|Dain]] severs [[Izek Strazni|Izek]]'s arm from the attacker, who lunges at [[Dain Lightbringer|Dain]] in an attempt to grapple him. He says "I will keep coming back again and again until I kill you fucks. You can't stop me from setting him free and then he'll kill you for me." [[Dain Lightbringer|Dain]] knocks him unconscious and [[H of H]] casts identify on the severed arm, sensing evocation magic.
 - [[Mercurie Slypher|Mercurie]] reveals she made a deal with some entity to get her out of a tough situation in exchange for running a few errands for them at a later date, which is something her family has a history of. After waiting for a while for her deal to come due she eventually aimed to flee the country and wound up in [[Barovia]]. However the entity could still reach her and now wants her to destroy one of the sarcophagi, the one [[Dain Lightbringer|Dain]] spoke with before that demanded to be freed. [[Mercurie Slypher|Mercurie]] postulates its her "bosses boss", and that the pain she's experiencing is because she has yet to free them.
 - We run the detect thoughts gambit like we did on [[Heinrich Stolt|Heinrich]]:
 	- who are you?

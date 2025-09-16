@@ -8,4 +8,4 @@ tags:
 [[Ellory Vellum|Ellory]]: Heroic Inspiration
 [[Arden]]: Heroic Inspiration
 
-Edge Points: 2
+Edge Points: 3

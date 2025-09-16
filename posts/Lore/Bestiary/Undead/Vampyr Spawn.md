@@ -3,7 +3,7 @@ tags:
   - Monster
   - Undead
 AC: "15"
-HP: 68-81
+HP: "82"
 aliases:
   - vampyr spawn
 ---

@@ -8,6 +8,8 @@ HP: 58-61
 Move Speed: 30ft
 aliases:
   - wolfmen
+  - werewolf
+  - werewolves
 ---
 Wolf (blue): 28 + 16 | 11 + 6 X
 Wolf (green): 28
