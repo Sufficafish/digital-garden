@@ -2,10 +2,12 @@
 tags:
   - Tracker
 ---
-[[Mercurie Slypher|Mercurie]]: Heroic Inspiration
-[[Dain Lightbringer|Dain]]: Heroic Inspiration
-[[H of H]]: Heroic Inspiration
-[[Ellory Vellum|Ellory]]: Heroic Inspiration
-[[Arden]]: Heroic Inspiration
+[[Mercurie Slypher|Mercurie]]: 
+[[Dain Lightbringer|Dain]]: 
+[[H of H]]: 
+[[Ellory Vellum|Ellory]]: 
+[[Arden]]: 
 
-Edge Points: 3
+Edge Points: 0
+
+Edge Levels: 1

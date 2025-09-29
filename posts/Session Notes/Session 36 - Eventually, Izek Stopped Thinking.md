@@ -1,0 +1,59 @@
+---
+Session Date: 9/28/2025
+---
+- while the party is long resting [[Dain Lightbringer|Dain]] heads back into [[Krezk]] to check in on the armorer's progress and crits his stealth roll. He successfully makes it to their house and finds them sleeping in their bed. Not wanting to disturb him,[[Dain Lightbringer|Dain]] searches their workshop, finds the armor, changes into it, and leaves a gilded skull behind as payment since he forgot if he paid already.
+- in the morning we head back to the [[Amber Temple]] along [[Tsolenka Pass]]. [[Kasimir Velikov|Kasimir]] announces he has gone as far as he can in his weary state and gives his magic ring to [[Patrina Velikovna|Patrina]] to keep her warm. After a few hours of travel our scouts tell us there is a group of mountain men waiting in ambush up ahead. We airdrop a note to them saying we're aware of their presence and press on, hoping they'll stave off their attack. As we approach [[Hyelk]] runs down the hill alone to meet us and says his leader, [[Skalgreth]] will need to be convinced not to attack. We send [[Dain Lightbringer|Dain]] back with [[Hyelk]] to wrestle in a contest of strength.
+- after some conversation [[Skalgreth]] asks for proof of [[Dain Lightbringer|Dain]]'s heroics and [[Dain Lightbringer|Dain]] recalls killing the great horned beast, who [[Skalgreth]] refers to as "Sangzor". After one of the mountain men confirms [[Dain Lightbringer|Dain]]'s story [[Skalgreth]] allows us to pass under the mountain men's protection. He also tells [[Dain Lightbringer|Dain]] to return in the future and learn how to properly display his kill.
+- after a brief interaction with "Edward" where [[H of H]] determines they are literally mindless we arrive at the [[Amber Temple]] and hear sounds of the roc inside. After a baffling argument about the morality of killing the roc while it's captive in the temple, with [[Mercurie Slypher|Mercurie]] spending all of her spell slots against [[Ellory Vellum|Ellory]] in the process, [[Ellory Vellum|Ellory]] firebolts the roc to death.
+- We get to the room with the ancient wizard without trouble. [[H of H]] casts zone of truth and then greater restoration. We speak to him:
+	- What is your name?
+		- [[Exethanter]]
+	- How did you come to be imprisoned here?
+		- I'm here of my own will
+	- Why?
+		- it's a great place to learn about magic
+	- was [[Strahd von Zarovich|Strahd]] the ruler when you came to [[Barovia]]?
+		- no I was here long before he was
+	- how are you still alive?
+		- something of a trade secret
+	- Do you know Tenebris?
+		- yes I am very familiar
+	- What can you tell us of him?
+		- I have something of a deal with him
+	- Is he an arch demon or an arch devil?
+		- he goes by many names, Orcus the Demon Prince of the Undead is one of them
+	- you'd told us before of dark gods that feed on [[Strahd von Zarovich|Strahd]]'s evil
+		- yes, if [[Strahd von Zarovich|Strahd]] were to be defeated he would either be resurrected or replaced. [[Barovia]] is what you might call a "domain of dread", an isolated plane of Shadowfell
+	- who is orchestrating this?
+		- when [[Strahd von Zarovich|Strahd]] came here and we spoke, he made a deal with Vampyr and greater forces latched on to the evil incarnate that is [[Strahd von Zarovich]] and began to feed off of him. They thrust [[Barovia]] into Shadowfell as its own demiplane, one of several, all of which have an anchor of great evil that both create misery and are subject to it. Anyone who took over would find themselves similarly tormented, each demiplane is tailor made to cause the anchor misery.
+	- what do you know of Vampyr?
+		- I do not think this is his doing. While [[Strahd von Zarovich|Strahd]] made a deal with them initially the dark gods merely took notice of what [[Strahd von Zarovich|Strahd]] did with Vampyr's power. The dark gods of this temple are nothing compared to the power of the greater powers that keep [[Barovia]] isolated. Those that are trapped in this temple I refer to as "vestiges", and while aspects of their being may exist outside of [[Barovia]] the majority of their power are stored here.
+	- who entombed the Vestiges?
+		- some organization of wizards, it's quite impressive. I've been studying how they accomplished it but am far from finished.
+	- and the Vestiges are not related to the greater dark gods?
+		- no, they were sealed away here and it was [[Strahd von Zarovich|Strahd]]'s use of their power that drew the greater gods' attention, leading to [[Barovia]]'s isolation.
+	- why are you in the temple?
+		- I have made it my home
+	- what is your most powerful magic?
+		- I can kill a man with a single word
+	- how long would it takes the greater forces to re-isolate [[Barovia]] should [[Strahd von Zarovich|Strahd]] fall?
+		- if I had to guess, months to a year
+	- where is [[Barovia]] from originally?
+		- the continent of Bidul
+	- can these dark gods be reckoned with?
+		- likely not from within the confines of [[Barovia]]. It's an interesting thought though.
+	- so to free [[Barovia]] we must first defeat [[Strahd von Zarovich|Strahd]]?
+		- likely yes, then you would probably need to travel to Shadowfell and confront these dark gods directly. From within [[Barovia]] it seems nigh impossible, though I will help if I can.
+	- can you offer us help?
+		- doing so directly is outside my nature, but the Vestiges are safe to make deals with, within reason.
+	- do you know what was in the shattered sarcophagus?
+		- no, it was already shattered when I arrived long ago
+	- what caused you to be so addled?
+		- the greatest enemy of all, father time
+	- do you know of Vampyr's weaknesses?
+		- They cannot enter residences without an invitation, cannot spend much time emersed in running water, can be stunned by a stake through the heart but only after being weakened, and of course sunlight.
+- [[Mercurie Slypher|Mercurie]] asks to have a one-on-one with [[Exethanter]] and refuses to elaborate as to why. After much deliberation we allow it. She tells us nothing after.
+- We leave the [[Amber Temple]], [[Mercurie Slypher|Mercurie]] gets headaches as we do but they stop once we're outside the threshold.
+- [[H of H]] uses stone shape to entomb [[Izek Strazni|Izek]] in the ground outside the temple in the hope he will rot there for eternity and never be able to be reborn in a new body. We head back to the woods near [[Castle Ravenloft]] and long rest.
+- during the long rest [[Mercurie Slypher|Mercurie]] has a conversation with their patron in which they agree to sever their pact upon [[Strahd von Zarovich|Strahd]]'s defeat. [[Mercurie Slypher|Mercurie]] gives a heartfelt speech to her patron about realizing the tiny effect she has on the universe relative to the grand powers that truly affect change, and that she's no longer deluded by false grandeur.
+- we long rest, level up, and end the session there.
