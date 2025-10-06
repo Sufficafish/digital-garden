@@ -1,7 +1,6 @@
 ---
 Session Date: 12/22/2024
 tags:
-  - Summary
 ---
 - Campaign starts with a group of travelers headed through some foggy woods as part of a caravan led by [[Arrigal]]
 - at night [[Mercurie Slypher]], [[Arden]], [[H of H]], [[Viscero]], and [[Ellory Vellum]] huddle around a campfire. [[Arrigal]] checks up on them but the night is otherwise uneventful.

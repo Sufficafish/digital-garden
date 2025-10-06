@@ -1,0 +1,48 @@
+---
+Session Date: 10/5/2025
+---
+- [[H of H]] inducts [[Mercurie Slypher|Mercurie]] into the faith of [[Ilmater]] in a one hour ceremony
+- we head to [[Argynvostholt]] to recover [[Ezmerelda d'Avenir|Ezmerelda]]'s wagon and head to [[Castle Ravenloft]] with [[Vasilka]] and [[Mercurie Slypher|Mercurie]], disguised as [[The Abbot]], in front.
+- after some persuasion [[Mercurie Slypher|Mercurie]] convinces the guards at [[Castle Ravenloft]] to allow us to bring the wagon into the back of the castle, claiming it has a gift for [[Strahd von Zarovich|Strahd]] inside.
+- we put a brick on the pedal of the horses and send the wagon careening towards [[Strahd von Zarovich|Strahd]] and his surrounding forces. As we do [[Patrina Velikovna|Patrina]] casts a spell and disappears, reappearing next to [[Strahd von Zarovich|Strahd]]. She had cast time stop and then cast several other spells, creating a wall of force that the carriage crashes into, causing it to explode. Combat ensues, with her fully on [[Strahd von Zarovich|Strahd]]'s side:
+	- [[Strahd von Zarovich|Strahd]]
+		- AC: 15-20
+		- HP: 12 + 21 + ? + 14 + 13 + 16 + 3
+	- [[Patrina Velikovna|Patrina]]
+		- AC: <=16
+		- HP Max: 99
+		- HP: 7 + 7 + 15 + 10 + 11 | 17 + 15 + ~28 X
+		- Resistances: spell damage
+- after we kill [[Patrina Velikovna|Patrina]] [[Strahd von Zarovich|Strahd]] flees over the edge of [[Castle Ravenloft]]'s balcony, breaking the moral of the remainder of his troops. We cast protection from evil and good, haste, , fly, and freedom of movement on [[Dain Lightbringer|Dain]] and give him the sunlight sword. He flies off like a missile with, a base speed of 120 feet and up to two dash actions, and sees a bat fleeing for a dirt structure jutting out of the cliffs. He grapples the bat and begins flying back to [[Castle Ravenloft]].
+- while en route [[Strahd von Zarovich|Strahd]] transforms back to his human form but is still grappled by [[Dain Lightbringer|Dain]]. He makes some fruitless attempts to escape before [[Dain Lightbringer|Dain]] rockets him back to the balcony and back into our range. We continue to damage him and eventually reduce him to a burst of mist, which flies back towards the castle's chapel. [[Dain Lightbringer|Dain]], still with missile speed, flies after him and sees the mist fly into [[Strahd von Zarovich|Strahd]]'s sarcophagus.
+- [[Dain Lightbringer|Dain]] picks up the entire sarcophagus and flies it back up to the balcony, breaking through a window in the process. [[Arden]] says only, "promises kept, aye?" before swinging the sunlight blade at his neck, beheading him. As this happens [[Castle Ravenloft]] shakes as the remnants of his hatred fade into history, with his body disappearing into dust soon after.
+- a stately man in shining armor appears behind us with [[Strahd von Zarovich|Strahd]]'s features, though much kinder. He introduces himself as [[Sergei von Holtz|Sergei von Zarovich]] and reaches for [[Vasilka]]. [[Tatyana]] emerges from her body and the two of them walk east together towards the overlook, treading a path safely into the afterlife. In their wake the clouds part, letting in glorious sunlight and burning away the fog that held [[Barovia]] captive.
+- [[Dain Lightbringer|Dain]] reads some prewritten, celebratory remarks. [[Arden]] questions why this rousing speech wasn't given prior to the fight.
+- Epilogue Notes:
+	- [[Ismark Kolyanavich|Ismark]] fulfills his duty as burgomaster of the [[Village of Barovia]]
+	- [[Victor Vallakovich|Victor]] leaves [[Barovia]] immediately and [[Hans]] becomes the new burgomaster
+	- [[Bluto Krogarov|Bluto]] eventually becomes head of [[Vallaki]]'s guard
+	- the [[Vistani]] flee [[Barovia]] under fear of persecution
+	- all other [[Vampyr|vampyres]] in [[Castle Ravenloft]] are immediately hunted and killed
+	- [[Rudolph van Richten]] congratulates us and lives out the rest of his life happily in solitude
+	- we defeat the [[Druid]]'s tree summon and reclaim [[Krezk]]
+	- [[Emil Toranescu|Emil]] returns to lead his werewolf kin
+	- even though one day [[Strahd von Zarovich|Strahd]] may return, for now, there is hope in [[Barovia]]
+- GM Interrogation:
+	- [[Lady Lovina Wachter]] originally wanted to marry off her daughter to [[Victor Vallakovich|Victor]], but [[Victor Vallakovich|Victor]] is a psychopath that experiments on people with magic and broke her daughters sanity, driving her to think she's a cat
+	- [[Baba Lysaga]]'s house does move like a spider, but the only reason it can do so is because she has one of the gems from the [[Wizard of Wines Winery]].
+	- [[Baba Lysaga]] is not a hag despite seeming like one. She originally was [[Strahd von Zarovich|Strahd]]'s nursemaid who helped deliver him and became deluded by fantasies of being his mother. The "baby Strahd" in her hut is a programmed illusion she made for herself.
+	- [[Exethanter]] is a lich who learned how to become a lich from Tenebris. He's evil, but is content to live in the [[Amber Temple]] for the rest of time any help anyone interested in cruel magic.
+	- the third crystal being in [[Davian Martikov]] is completely homebrew, as written it can be anywhere in [[Barovia]].
+	- the crystal heart in [[Castle Ravenloft]] is just an extra well of hitpoints for [[Strahd von Zarovich|Strahd]].
+	- [[Strahd von Zarovich|Strahd]] as a layer action can move through any wall, ceiling, or floor in [[Castle Ravenloft]].
+	- [[Ireena Kolyana|Ireena]] is [[Izek Strazni|Izek]]'s sister but has no memory of the incident that separated her from him.
+	- The tombs in the catacombs with our names on them are just illusions of [[Castle Ravenloft]]
+	- [[Pidlwick]] is actually "Pidlwick II". [[Gadof Blinsky|Blinsky]] made him as a successor jester to the original Pidlwick but he was so unsettling that no one likes him. [[Gadof Blinsky|Blinsky]] murdered the original Pidlwick out of jealously.
+	- [[Strahd von Zarovich|Strahd]] helped [[The Abbot]], posing as [[Strahd von Zarovich|Lord Vasili von Holtz]], mutate the Belview family under the guise of healing them.
+	- [[Izek Strazni|Izek]] respawning is homebrew.
+	- Nepheron was a weird dog demon summoned by those that created the [[Amber Temple]] and is still following the orders to protect it all those years later.
+	- [[Emil Toranescu|Emil]] was never in the [[Amber Temple]], [[Mercurie Slypher|Mercurie]] just disguised herself to fuck with us.
+	- [[Edward (Maybe)]] is just an illusion made by [[Strahd von Zarovich|Strahd]] to deter people from the [[Amber Temple]] and would have disappeared if we ever touched him.
+	- [[Sergei von Holtz|Sergei]]'s armor wasn't trapped
+	- [[The Death House]] being before the [[Gates of Barovia]] is homebrew, its supposed to be in the [[Village of Barovia]]
